@@ -20,12 +20,7 @@
    
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
-   <div class="container-fluid index">
-<!--    <video loop autoplay>
-        <source src="img/main-bg.ogv" type="video/ogv">
-            <source src="img/main-bg.webm" type="video/webm">
-    </video>-->
-
+   <div class="container-fluid index" id="video">
     <div class="black-mask">
         <?php include( 'nav.html'); ?>
         <div class="table">
@@ -134,7 +129,7 @@
                   <div class="table">
                       <div class="cell text-center big-text">Neque porro quisquam est qui <br>dolorem ipsum
                       <br> <br>
-                      <button class="btn-default">View Project</button>
+                      <a href="#" class="btn">View Project</a>
                       </div>
                       
                   </div>
@@ -165,12 +160,12 @@
                
            </div>
            <div class="container-fluid wrap04 text-center">
-              <p class="quote"><strong style="color: #ec1c24">"</strong> In marketing to create an emotional bond is one of the toughest<br> tasks.  And it can be only achieved by understanding the <br>consumer’s day to day journey.<strong style="color: #ec1c24">"</strong></p>
+              <p class="quote"><strong style="color: #ec1c24; font-family: serif;">"</strong> In marketing to create an emotional bond is one of the toughest<br> tasks.  And it can be only achieved by understanding the <br>consumer’s day to day journey.<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
                <div class="container">
                   <div class="main-cont">
                    <div class="row text-center">
                        <div class="col-md-4">
-                          <div class="twit01 text-left">
+                          <div class="twit01 text-left review">
                               <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                               <hr>
                               <h4>Venkat Raja</h4>
@@ -178,7 +173,7 @@
                            </div>
                        </div>
                        <div class="col-md-4">
-                            <div class="twit02 text-left">
+                            <div class="twit02 text-left review">
                               <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                               <hr>
                               <h4>Venkat Raja</h4>
@@ -187,7 +182,7 @@
                            
                        </div>
                        <div class="col-md-4">
-                            <div class="twit03 text-left">
+                            <div class="twit03 text-left review">
                               <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                               <hr>
                               <h4>Venkat Raja</h4>
@@ -237,6 +232,18 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script>
     window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
+</script>
+<script src="js/jquery.videoBG.js"></script>
+<script>
+$('#video').videoBG({
+	position:"fixed",
+    zIndex: 0,
+    mp4:'video/time.mp4',
+	ogv:'video/time.ogv',
+	webm:'video/time.webm',
+	poster:'video/main-bg.jpg',
+    fullscreen: true
+});        
 </script>
 
 <script src="js/vendor/bootstrap.min.js"></script>

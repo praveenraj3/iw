@@ -58,16 +58,17 @@ overflow-x: hidden; }
     height: 100%;
     position: relative;
     overflow: hidden;
+    padding: 0;
 }
 
 
 
-
+/*
  video {
     position: absolute;
     left: 50%;
     top: 50%;
-    /* The following will size the video to fit the full container. Not necessary, just nice.*/
+  
     min-width: 100%;
     min-height: 100%;
     -webkit-transform: translate(-50%,-50%);
@@ -78,14 +79,14 @@ overflow-x: hidden; }
      background-color: rgba(0,0,0,0.99);
      margin: 0;
     
-}
+}*/
 
 
 .black-mask {
     position: absolute;
     left: 50%;
     top: 50%;
-    /* The following will size the video to fit the full container. Not necessary, just nice.*/
+
     min-width: 100%;
     min-height: 100%;
     -webkit-transform: translate(-50%,-50%);
@@ -101,6 +102,7 @@ overflow-x: hidden; }
     
    
 }
+#video {width: 100% !important;}
 
 
 .table {display: table; width: 100%; height: 100%;}
@@ -118,7 +120,7 @@ overflow-x: hidden; }
 .navbar-right {margin-right: 50px;}
 .navbar-default .navbar-nav>li>a { font-family: 'Lato', sans-serif; font-weight: 300; font-size: 12pt; color: #ffffff; margin-top: 30px;}
 
-.navbar-default .navbar-nav>li>a:hover {color: #ec1c24;}
+.navbar-default .navbar-nav>li>a:hover {font-weight: bold;}
 
 .navbar-brand, .navbar-nav>li>a {text-shadow: none;}
 
@@ -126,12 +128,12 @@ overflow-x: hidden; }
 
 .scroll {position: absolute; bottom: 15%; margin-right: auto;margin-left: auto; left: 0; right: 0; text-align: center;}
 
-.btn-default {background-image: none; background-color: #ec1c24; border-radius: 0; padding: 10px 20px; color: #ffffff; text-shadow: none;  font-family: 'pt_sansbold'; border: none;}
+.btn {background-color: #ec1c24; padding: 10px 20px; color: #ffffff; font-family: 'pt_sansregular'; border-radius: 0; font-size: 12pt; -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
+.btn:hover {background: #fff; color: #ec1c24;}
 
-.btn-default:hover {background-color: #ffffff; color: #ec1c24;
- -webkit-transition: all 0.3s ease;
--o-transition: all 0.3s ease;
-transition: all 0.3s ease;}
+.btn-default {background-image: none; background-color: #ec1c24; border-radius: 0; padding: 10px 20px; color: #ffffff; text-shadow: none;  font-family: 'pt_sansregular'; border: none;}
+
+.btn-default:hover {background-color: #ffffff; color: #ec1c24;  -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
 
 
 .wrap01 {height: 100%; background-color: #ec1c24; font-family: 'pt_sansbold'; color: #ffffff; font-size: 2em; padding: 3em;
@@ -150,16 +152,16 @@ transition: all 0.3s ease;}
 
 .leftSpan { float: left; width: 50px; height: 50px; outline: 3px solid #5b000b; text-align: center; line-height: 2;}
 
-.rightSpan:hover {background-color: #5b000b; outline: 3px solid #5b000b;}
-.list-wrap:hover .col-md-4 {filter: blur(2px); -webkit-filter: blur(2px); -moz-filter: blur(2px); -o-filter: blur(2px); -ms-filter: blur(2px);}
-.list-wrap .col-md-4:hover {filter: blur(0px); -webkit-filter: blur(0px); -moz-filter: blur(0px); -o-filter: blur(0px); -ms-filter: blur(0px);}
+.list-wrap .col-md-4:hover .rightSpan {background-color: #5b000b; outline: 3px solid #5b000b;}
 
+/*filter: blur(2px); -webkit-filter: blur(2px); -moz-filter: blur(2px); -o-filter: blur(2px); -ms-filter: blur(2px)*/
 
 .wrap02 {padding: 10em 5em;}
 
 .wrap03 {padding: 0; margin: 0;}
 .big-coloumn {background: url(../img/coloumn-big.jpg) no-repeat 50% 50%; background-size: cover; height: 700px; position: relative;}
 .big-coloumn:before{background-color: rgba(0,0,0,0.8); position: absolute; height: 700px; content: " ";  top: 0; bottom: 0; left: 0; right: 0;}
+.big-coloumn:hover:before{background-color: rgba(0,0,0,0.5);}
 
 .small-coloumn { height: 350px;}
 
@@ -197,7 +199,12 @@ transition: all 0.3s ease;}
 button {font-size: 12pt;}
 
 .wrap04 {padding: 5em;}
-.quote { font-size: 1.8em; font-family: 'pt_sansregular'; color: #666666; line-height: 1; margin-bottom: 3em;}
+.review {-webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
+.review:hover {-webkit-transform: scale(1.03);
+-ms-transform: scale(1.03);
+-o-transform: scale(1.03);
+transform: scale(1.03); -webkit-box-shadow: 10px 10px 20px #c4c3c3; box-shadow: 10px 10px 20px #c4c3c3;}
+.quote { font-size: 1.8em; font-family: 'pt_sansregular'; color: #666666; line-height: 1; margin: 1em auto 4em auto;}
 .main-cont {max-width: 900px; margin: auto;}
 .twit01 {height: 350px; background: url(../img/teit01.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
 .twit-content {background-color: #ffffff; margin: 10px; padding: 15px; position: absolute; bottom: 0;}
