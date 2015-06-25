@@ -201,7 +201,7 @@
                    <div class="col-md-9 right-grid text-left">
                      
                        <h3>We’re Hiring!!!</h3>
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore et dolore magna aliqua. </p>
                        <h4>careers@indianwesteros.com</h4>
                        
                    </div>
