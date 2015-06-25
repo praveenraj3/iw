@@ -141,7 +141,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="row">
-                        <div class="col-md-12 small-coloumn01 ">
+                        <div class="col-md-12 small-coloumn sm-bg01">
                          <img src="img/zoom.png" alt="" class="zoom-icon"/>
                           <div class="content-box">
                            
@@ -149,14 +149,23 @@
                         <p>Neque porro quisquam est qui <br>dolorem ipsum</p>
                         </div>
                         </div>
-                        <div class="col-md-12 small-coloumn02"></div>
+                        
+                        <div class="col-md-12 small-coloumn sm-bg02">
+                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
+                          <div class="content-box">
+                           
+                            <h5>Neque <span>porro</span></h5>
+                        <p>Neque porro quisquam est qui <br>dolorem ipsum</p>
+                        </div>
+                        </div>
+                        
                     </div>
                 </div>
               </div>
                
            </div>
            <div class="container-fluid wrap04 text-center">
-              <p class="quote">In marketing to create an emotional bond is one of the toughest<br> tasks.  And it can be only achieved by understanding the <br>consumer’s day to day journey.</p>
+              <p class="quote"><strong style="color: #ec1c24">"</strong> In marketing to create an emotional bond is one of the toughest<br> tasks.  And it can be only achieved by understanding the <br>consumer’s day to day journey.<strong style="color: #ec1c24">"</strong></p>
                <div class="container">
                   <div class="main-cont">
                    <div class="row text-center">
@@ -189,7 +198,13 @@
                    
                <div class="row add">
                    <div class="col-md-3 left-grid"></div>
-                   <div class="col-md-9 right-grid"></div>
+                   <div class="col-md-9 right-grid text-left">
+                     
+                       <h3>We’re Hiring!!!</h3>
+                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                       <h4>careers@indianwesteros.com</h4>
+                       
+                   </div>
                </div>
            
                    
@@ -201,7 +216,7 @@
            </div>
         
         
-        
+        <?php include('footer.html'); ?>   
         
       
         </div>

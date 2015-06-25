@@ -62,7 +62,7 @@
 
 html, body {margin: 0; padding: 0; width: 100%; height: 100%;
 font-family: 'pt_serifregular'; font-size: 1em;
-overflow-x: hidden;}
+overflow-x: hidden; }
 
 #sb-site {height: 100%;}
 
@@ -142,9 +142,12 @@ overflow-x: hidden;}
 
 .scroll {position: absolute; bottom: 15%; margin-right: auto;margin-left: auto; left: 0; right: 0; text-align: center;}
 
-.btn-default {background-image: none; background-color: #ec1c24; border-radius: 0; padding: 10px 20px; color: #ffffff; text-shadow: none; font-family: 'Lato', sans-serif; font-weight: 100; border-color: #ec1c24;}
+.btn-default {background-image: none; background-color: #ec1c24; border-radius: 0; padding: 10px 20px; color: #ffffff; text-shadow: none;  font-family: 'pt_sansbold'; border-color: #ec1c24;}
 
-.btn-default:hover {background-color: #333333; color: #ffffff;}
+.btn-default:hover {background-color: #ffffff; color: #ec1c24;
+border-color: #ffffff -webkit-transition: all 0.3s ease;
+-o-transition: all 0.3s ease;
+transition: all 0.3s ease;}
 
 
 .wrap01 {height: 100%; background-color: #ec1c24; font-family: 'pt_sansbold'; color: #ffffff; font-size: 2em; padding: 3em;
@@ -171,20 +174,25 @@ overflow-x: hidden;}
 .big-coloumn {background: url(../img/coloumn-big.jpg) no-repeat 50% 50%; background-size: cover; height: 700px; position: relative;}
 .big-coloumn:before{background-color: rgba(0,0,0,0.8); position: absolute; height: 700px; content: " ";  top: 0; bottom: 0; left: 0; right: 0;}
 
-.small-coloumn01 {background: url(../img/coloumn-small01.jpg) no-repeat 50% 50%; background-size: cover; height: 350px;}
+.small-coloumn { height: 350px;}
 
-.small-coloumn01:before{background-color: rgba(0,0,0,0.8); position: absolute; height: 700px; content: " ";  top: 0; bottom: 0; left: 0; right: 0; -webkit-transition: all 0.3s ease;
+.sm-bg01 { background: url(../img/coloumn-small01.jpg) no-repeat 50% 50%; background-size: cover; }
+
+.sm-bg02 { background: url(../img/coloumn-small02.jpg) no-repeat 50% 50%; background-size: cover; }
+
+.small-coloumn:before{background-color: rgba(0,0,0,0.8); position: absolute; height: 350px; content: " ";  top: 0; bottom: 0; left: 0; right: 0; -webkit-transition: all 0.3s ease;
 -o-transition: all 0.3s ease;
 transition: all 0.3s ease;}
 
-.small-coloumn01:hover:before {background-color: rgba(0,0,0,0.2);}
+.small-coloumn:hover:before {background-color: rgba(0,0,0,0.2);}
 
-.small-coloumn01:hover .content-box {opacity: 0;-webkit-transition: all 0.3s ease;
+.small-coloumn:hover .content-box {opacity: 0;-webkit-transition: all 0.3s ease;
 -o-transition: all 0.3s ease;
 transition: all 0.3s ease;}
-.small-coloumn01:hover .zoom-icon {opacity: 1;}
+.small-coloumn:hover .zoom-icon {opacity: 1;}
 
-.small-coloumn02 {background: url(../img/coloumn-small02.jpg) no-repeat 50% 50%; background-size: cover; height: 350px;}
+
+
 .content-box {position: absolute; bottom: 0;z-index: 1; padding: 20px; font-family: 'pt_sansregular'; width: 100%;-webkit-transition: all 0.3s ease;
 -o-transition: all 0.3s ease;
 transition: all 0.3s ease;}
@@ -206,6 +214,9 @@ button {font-size: 12pt;}
 .main-cont {max-width: 900px; margin: auto;}
 .twit01 {height: 350px; background: url(../img/teit01.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
 .twit-content {background-color: #ffffff; margin: 10px; padding: 10px;position: absolute; bottom: 0;}
+
+.twit-content h4 {color: #29abe2; font-family: 'pt_sansregular'; font-size: 1.2}
+
 hr {width: 70px; margin-top: 5px; margin-bottom: 5px; border-top: 1px solid #29abe2; margin-left: 0;}
 .twit02 {height: 350px; background: url(../img/twit02.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
 .twit03 {height: 350px; background: url(../img/twit03.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
@@ -214,4 +225,32 @@ hr {width: 70px; margin-top: 5px; margin-bottom: 5px; border-top: 1px solid #29a
 
 .left-grid {background: url(../img/model.jpg) 50% 50% no-repeat ; background-size: cover; height: 200px;}
 
-.right-grid {background-color: #ec1c24; height: 200px;}
+
+
+.right-grid {background-color: #ec1c24; height: 200px; padding-top: 1em;}
+
+.right-grid h3 {font-size: 2em; color: #ffffff;   font-family: 'pt_sansregular';}
+
+.right-grid p {color: #ffffff; font-size: 1.2em; font-family: 'pt_sansregular'; line-height: 1.2; margin-bottom: 20px;}
+
+.right-grid h4 {font-size: 1.5em; color: #5b000b;   font-family: 'pt_sansregular'; }
+
+#contact {height: 100%;}
+
+.cnt-row {height: 100%;}
+
+.cnt-left {background: url(../img/cnt-bg.jpg) no-repeat 50% 50%; height: 100%; background-size: cover;}
+
+.cnt-left h1 {color: #ffffff; font-family: 'pt_serifregular'; font-size: 3em; }
+
+.cnt-left h1 span {color: #ec1c24;}
+
+.right-row {margin: 0 20px;}
+.cnt-right {background-color: #f9f9f9; height: 100%;}
+.cnt-right h2 {font-family: 'pt_sansregular'; color: #666666; margin: 50px;}
+
+.cnt-right .form-control {border-radius: 0; background-color: transparent; box-shadow: none; border: 1px solid #999999; height: 45px;} 
+
+.cnt-right button { margin-top: 20px; background-color: #666666; border: 1px solid #666666; padding: 10px 40px;}
+
+.message {height: 100px;}
