@@ -221,9 +221,9 @@
       
         </div>
         
-        <div class="sb-slidebar sb-right">
-    What the fuck
-    </div>
+<div class="sb-slidebar sb-right sb-momentum-scrolling">
+<?php include('sidebar.php');?>
+</div>
 
         
  
