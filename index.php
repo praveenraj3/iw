@@ -21,10 +21,10 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
    <div class="container-fluid index">
-    <video loop autoplay>
+<!--    <video loop autoplay>
         <source src="img/main-bg.ogv" type="video/ogv">
             <source src="img/main-bg.webm" type="video/webm">
-    </video>
+    </video>-->
 
     <div class="black-mask">
         <?php include( 'nav.html'); ?>
@@ -49,21 +49,21 @@
                
                     <div class="leftSpan">
                     <span class="glyphicon glyphicon-bullhorn"></span></div>
-                    <div class="rightSpan"><a>Advertising</a></div>
+                    <div class="rightSpan"><a href="#">Advertising</a></div>
                 
                 
                 </div>
                 <div class="col-md-4">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-stats"></span></div>
-                    <div class="rightSpan"><a>Strategic Planning</a></div>
+                    <div class="rightSpan"><a href="#">Strategic Planning</a></div>
                 
                 
                 </div>
                 <div class="col-md-4">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-edit"></span></div>
-                    <div class="rightSpan"><a>Creative Design</a></div>
+                    <div class="rightSpan"><a href="#">Creative Design</a></div>
               
                 
                 </div>
@@ -72,21 +72,21 @@
                 <div class="col-md-4">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-thumbs-up"></span></div>
-                    <div class="rightSpan"><a>Digital Marketing</a></div>
+                    <div class="rightSpan"><a href="#">Digital Marketing</a></div>
                 
                 
                 </div>
                 <div class="col-md-4">
                
                     <div class="leftSpan"><span class="glyphicon glyphicon-random"></span></div>
-                    <div class="rightSpan"><a>Experiential Marketing</a></div>
+                    <div class="rightSpan"><a href="#">Experiential Marketing</a></div>
                
                 
                 </div>
                 <div class="col-md-4">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-facetime-video"></span></div>
-                    <div class="rightSpan"><a>Media Relations</a></div>
+                    <div class="rightSpan"><a href="#">Media Relations</a></div>
                 </div>
                 
                 
@@ -95,21 +95,21 @@
                 <div class="col-md-4">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-user"></span></div>
-                    <div class="rightSpan"><a>Public Affairs</a></div>
+                    <div class="rightSpan"><a href="#">Public Affairs</a></div>
                
                 
                 </div>
                 <div class="col-md-4">
                
                     <div class="leftSpan"><span class="glyphicon glyphicon-heart"></span></div>
-                    <div class="rightSpan"><a>Public Relations</a></div>
+                    <div class="rightSpan"><a href="#">Public Relations</a></div>
                
                 
                 </div>
                 <div class="col-md-4">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-signal"></span></div>
-                    <div class="rightSpan"><a>Trade Marketing</a></div>
+                    <div class="rightSpan"><a href="#">Trade Marketing</a></div>
                 
                 
                 </div>
@@ -201,7 +201,7 @@
                    <div class="col-md-9 right-grid text-left">
                      
                        <h3>We’re Hiring!!!</h3>
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore et dolore magna aliqua. </p>
+                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                        <h4>careers@indianwesteros.com</h4>
                        
                    </div>
@@ -223,6 +223,10 @@
         
 <div class="sb-slidebar sb-right sb-momentum-scrolling">
 <?php include('sidebar.php');?>
+<ul class="social">
+    <a href="https://www.facebook.com/pages/IndianWesteros/1080710035276088?ref=ts&fref=ts" target="_blank"><li class="fb"></li></a>
+    <a href="#"><li class="tw"></li></a>
+</ul>
 </div>
 
         
