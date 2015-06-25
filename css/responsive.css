@@ -1,0 +1,71 @@
+@media screen and (min-width: 992px) and (max-width: 1200px){
+     
+}
+
+@media screen and (min-width: 769px) and (max-width: 991px){
+    .left-grid {font-size: 16pt; text-align: right; color: #ffffff; border-right: 1px solid #ec1c24; font-family: 'avenirnextltproDemi';}
+    
+    
+}
+
+@media screen and (min-width: 641px) and (max-width: 768px){
+    body {font-size: 0.5em;}
+   h1 { font-size: 3.5em; color: #333333;}
+    .intro-text {font-size: 24pt;}
+    .intro-text span {font-size: 24pt;}
+    .left-grid {font-size: 16pt; text-align: center;}
+    .left-grid span {font-size: 16pt; text-align: center;}
+     .right-grid {padding-top: 30px; text-align: center;}
+
+.small-column { height: 400px;}
+.seperate-column01 { height:200px;}
+.seperate-column02 { height:200px;}
+.seperate-column03 { height:200px;}
+.seperate-column04 { height:200px;}
+.seperate-column05 { height:200px;}
+.seperate-column06 { height:200px;}
+    
+.pd-left {padding-left: 20px;}
+   
+   
+    ul li { font-size: 14pt;}
+    hr {margin-top: 20px; margin-bottom: 20px;}
+
+}
+
+
+    
+@media screen and (min-width: 481px) and (max-width: 640px){
+
+ body {font-size: 0.7em;}
+h1 { font-size: 3em; color: #333333;}   
+    .intro-text {font-size: 24pt;}
+    .intro-text span {font-size: 24pt;}
+    .left-grid {font-size: 16pt; text-align: center; border-right: none;}
+    .left-grid span {font-size: 16pt; text-align: center;}
+     .right-grid {padding-top: 30px; text-align: center;}
+    .pd-left {padding-left: 30px;}
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+    body {font-size: 0.7em;}
+h1 { font-size: 3em; color: #333333;}   
+    .intro-text {font-size: 16pt;}
+    .intro-text span {font-size: 16pt;}
+    .left-grid {font-size: 16pt; text-align: center;}
+    .left-grid span {font-size: 16pt; text-align: center;}
+     .right-grid {padding-top: 30px; text-align: center;}
+    ul {padding-left: 0;}
+    ul li {font-size: 12pt; margin: 0;}
+    .brand-logo {width: 150px; margin: 0;}
+    hr {width: 100px; margin-bottom: 20px; margin-top: 20px;}
+    h1 img {width: 200px; margin-top: 20px;}
+    .left-grid {font-size: 14pt; text-align: center; border-right: none;}
+    .left-grid span {font-size: 14pt; text-align: center;}
+   .max-cont {max-width: 100%;}
+    .quote {font-size: 12pt; }
+    .values-para {font-size: 12pt;}
+    .pd-left {padding-left: 10px;}
+    .right-grid ul li {margin: 0 2px;}
+}
+    
