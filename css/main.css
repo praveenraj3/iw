@@ -295,3 +295,30 @@ hr {width: 70px; margin-top: 5px; margin-bottom: 5px; border-top: 1px solid #29a
 .social .tw {width: 32px; height: 32px; background: url(../img/tw-menu.png) no-repeat;}
 .social .fb:hover {background: url(../img/fb-menu-hover.png) no-repeat;}
 .social .tw:hover {background: url(../img/tw-menu-hover.png) no-repeat;}
+
+.large {overflow-x: hidden;}
+/*================about==========================*/
+.about-header {background-color: #eb1c24; height: 80px; padding: 30px; position: relative;}
+
+.about-menu {position: absolute; top: 30px; right: 50px;}
+.nav-cont {padding: 30px;}
+.nav-cont ul { list-style-type: none;}
+.nav-cont ul li {display: inline-block; margin: 0 30px;}
+.nav-cont ul li a{ font-family: 'pt_sansbold'; text-decoration: none; font-size: 0.9em; color: #808080;}
+.main-wrap {padding: 5em;}
+.big-text { font-family: 'pt_serifregular'; font-weight: bold; color: #000000; font-size: 4em;}
+.about-para {font-family: 'pt_sansregular'; font-size: 1em; 
+color: #4d4d4d; margin: 8em;}
+.about-para p {margin: 30px 0; text-align: justify;}
+
+.about-left {background: url(../img/values-bg.jpg) no-repeat 50% 50%; height: 100%; background-size: cover;}
+
+.about-left h1 {color: #ffffff; font-family: 'pt_serifregular'; font-size: 3em;  font-weight: bold;}
+
+.about-left h1 span {color: #5b000b;}
+
+.about-right {background-color: #f1f1f1; height: 100%;}
+.about-right h3{color: #eb1c24; margin-top: 70px;}
+.about-right p {font-family: 'pt_sansregular'; margin: 20px 0; font-size: 1.1em;}
+
+

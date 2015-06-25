@@ -8,7 +8,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>About Indian Westeros</title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
        
          <?php include('link.html'); ?>
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
@@ -21,49 +21,73 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
         
+         <div id="sb-site">
         
-        
-        <div class="container-fluid about-index">
-            <?php include('nav.html'); ?>
-        <div class="table"> <div class="text-center cell"><div class="intro-text">WE ARE HERE TO <br><span>CREATE &amp; TRANSFORM BRANDS</span> <br>THAT LASTS FOREVER </div>
-            
-        </div></div>
-             </div>
-        
-        
-        
-        <div class="container list-wrap">
-            <div class="container text-center">
-        <h1>Who we are</h1>
-            <hr class="red">
-            <span class="quote">“ We are here to create and transform brands that lasts forever ”</span><br><br>
-            <p>Through comprehensive,  appropriate and integrated range of marketing communication services.</p><br>
-            <p>We help brands to solve their business challenges with intellectual ideas that revolutionize the competitive landscape. Each challenge is unique and the brands have their own identity which needs to be  understood, researched, managed and effectively proclaimed.</p><br>
-            <p>To win a customer’s loyalty is currently the aim of major brands across the globe. We provide  advertising expertise, marketing skills, leading - edge technology, first class service, unparalleled insights and a portfolio of services – broadcast, print, digital or experiential to achieve the goal.
-</p>
-            </div>
+        <div class="container-fluid about-header">
+        <div class="container text-center">
+            <img src="img/logo-about.png" alit="" class="brand-about"/>
+        </div>
+<div class="about-menu"><a href="#"><img src="img/menu.png" alt="" class="menu sb-toggle-right"/></a></div>
+        </div>  
+       <div class="container nav-cont text-center">
+           <ul>
+               <li><a href="#">ABOUT</a></li>
+               <li><a href="#">WORK</a></li>
+               <li><a href="#">SERVICES</a></li>
+               <li><a href="#">NEWS &amp; EVENTS</a></li>
+               <li><a href="#">CAREERS</a></li>
+               <li><a href="#">CONTACT</a></li>
+           </ul>
+       </div>
+       <div class="container main-wrap">
+           <div class="big-text text-center">Who we are<span style="color: #eb1c24;">.</span></div>
+           <div class="about-para">
+           <p>We are here to  create and transform brands that lasts forever through comprehensive, appropriate and integrated range of marketing communication services. </p>
+            <p>We help brands to solve their business challenges with intellectual ideas that revolutionize the competitive landscape. Each challenge is unique and the brands have their own identity which needs to be  understood, researched, managed and effectively proclaimed.  </p>
+             <p>o win a customer’s loyalty is currently the aim of major brands across the globe. We provide  advertising expertise, marketing skills, leading - edge technology, first class service, unparalleled insights and a portfolio of services – broadcast, print, digital or experiential to achieve the goal.</p>
+           </div>
+       </div>
+       <div class="container-fluid " id="contact">
+<div class="row cnt-row">
+    <div class="col-md-6 about-left">
+       <div class="table">
+        <div class="cell text-center"><h1>
+            Our Values<span>.</span>
+        </h1></div></div>
+    </div>
+       
+           <div class="col-md-6 about-right text-center">
+               <h3>Freshness</h3>
+               <p>We deliver fresh ideas that will change the way<br> consumers think, feel or act towards a brand. </p>
+               <hr style="margin-left: auto; border-top: 1px solid #cbcbcb;">
+               <ul>
+               <li>Belief</li>
+               <li> <hr style="margin-left: auto; border-top: 1px solid #cbcbcb;"></li>
+               <li>Belief</li>
+               <li> <hr style="margin-left: auto; border-top: 1px solid #cbcbcb;"></li>
+               <li>Belief</li>
+               <li> <hr style="margin-left: auto; border-top: 1px solid #cbcbcb;"></li>
+                   <li>Belief</li></ul>
+           </div>
+           </div></div>
+             <div class="clearfix"></div>
+<?php include('footer.html'); ?>
+  
         </div>
         
-      <div class="container-fluid values-bg text-center">
-         <h1>Our Values</h1>
-            <hr class="red">
-          <div class="container-fluid bg-box ">
-          <h3>PASSION</h3>
-              <p class="values-para">We are passionate about serving our customers and offer them the means to<br>
-fully benefit from our experience and expertise in providing quality<br>
-marketing communication solutions.
-</p>
-          </div>
-        </div>  
-       
-        
-<?php include('footer.html'); ?>
+     <div class="sb-slidebar sb-right sb-momentum-scrolling">
+<?php include('sidebar.php');?>
+<ul class="social">
+    <a href="https://www.facebook.com/pages/IndianWesteros/1080710035276088?ref=ts&fref=ts" target="_blank"><li class="fb"></li></a>
+    <a href="#"><li class="tw"></li></a>
+</ul>
+</div>
    
  <!-- /container --><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>
-
+        <script src="js/slidebars.min.js"></script>
         <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
@@ -77,3 +101,5 @@ marketing communication solutions.
         </script>
     </body>
 </html>
+
+
