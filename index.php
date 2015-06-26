@@ -13,6 +13,11 @@
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
+      <div class="loading">
+    <div class="loading-gif">
+        <img src="img/loading.GIF" alt="Loading">
+    </div>
+</div>
        <div id="sb-site">
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>

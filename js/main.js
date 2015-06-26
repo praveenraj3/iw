@@ -12,3 +12,7 @@
           $.slidebars();
         });
       }) (jQuery);
+
+$(window).load(function() {
+    $('.loading').fadeOut();
+});
