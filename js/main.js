@@ -7,27 +7,22 @@
     });
     wow.init();
 
-/*(function($) {
-        $(document).ready(function() {
-          $.slidebars();
-        });
-      }) (jQuery);*/
 
 $(window).load(function() {
     $('.loading').fadeOut();
+    
 });
 
 $(document).ready(function() {
-    $.slidebars();
     
-    $('body').scroll(function() {
+    $(".mm-page").scroll(function() {
         var h = $(window).scrollTop();
-        if(h>200) {
+/*        if(h>200) {
             $('.menu-icon').fadeIn();
         }
         else {
             $('.menu-icon').fadeOut();
-        }
+        }*/
         console.log(h)
     });
     
@@ -39,10 +34,7 @@ $(document).ready(function() {
         $(this).css('color', '#ec1c24');
     });
     
-    //contact 
-/*    $('#contact').click(function() {
-        $('html, body').animate({scrollTop:$('#contact').position().top}, 'slow');
-        console.log('clcik');
-    });*/
+    //sidebar
+    $('.menu-icon').bigSlide({side: 'right', easyClose: true, menuWidth: '20em'});
     
 });

@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>About Indian Westeros</title>
+        <title>About Us - Indian Westeros</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
        
@@ -20,7 +20,7 @@
     </div>
 </div>   
     
-<img src="img/menu-icon.png" alt="" class="menu-icon sb-toggle-right">                
+           
        
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -29,13 +29,13 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
         
-         <div id="sb-site">
-        
+
+    <div id="page" class="push">
         <div class="container-fluid about-header wow fadeInDown animated">
         <div class="container text-center">
             <a href="index.php"><img src="img/logo-about.png" alit="" class="brand-about"/></a>
         </div>
-<div class="about-menu"><a href="#"><img src="img/menu.png" alt="" class="menu sb-toggle-right"/></a></div>
+<!--<div class="about-menu"><a href="#"><img src="img/menu.png" alt="" class="menu"/></a></div>-->
         </div>  
        <div class="container nav-cont text-center wow fadeInDown animated">
            <ul>
@@ -44,7 +44,7 @@
                <li><a href="#">SERVICES</a></li>
                <li><a href="#">NEWS &amp; EVENTS</a></li>
                <li><a href="#">CAREERS</a></li>
-               <li><a href="#contact">CONTACT</a></li>
+               <li><a href="#contact" >CONTACT</a></li>
            </ul>
        </div>
        <div class="container main-wrap">
@@ -144,23 +144,21 @@
             
              
 <?php include('footer.html'); ?>
-  
-        </div>
+   
+<?php include('sidebar.php'); ?>
+
+
+
+ </div>     
+   
         
-     <div class="sb-slidebar sb-right sb-momentum-scrolling">
-<?php include('sidebar.php');?>
-<ul class="social">
-    <a href="https://www.facebook.com/pages/IndianWesteros/1080710035276088?ref=ts&fref=ts" target="_blank"><li class="fb"></li></a>
-    <a href="#"><li class="tw"></li></a>
-</ul>
-</div>
    
  <!-- /container --><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>
-        <script src="js/slidebars.min.js"></script>
         <script src="js/wow.min.js"></script>
+        <script src="js/bigSlide.js"></script>
         <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
