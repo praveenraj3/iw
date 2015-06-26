@@ -7,12 +7,42 @@
     });
     wow.init();
 
-(function($) {
+/*(function($) {
         $(document).ready(function() {
           $.slidebars();
         });
-      }) (jQuery);
+      }) (jQuery);*/
 
 $(window).load(function() {
     $('.loading').fadeOut();
+});
+
+$(document).ready(function() {
+    $.slidebars();
+    
+    $('body').scroll(function() {
+        var h = $(window).scrollTop();
+        if(h>200) {
+            $('.menu-icon').fadeIn();
+        }
+        else {
+            $('.menu-icon').fadeOut();
+        }
+        console.log(h)
+    });
+    
+    //value
+    $('.value h3').click(function() {
+        $('.note').hide();
+        $('.value h3').css('color', '#808080');
+        $(this).next('p').show();
+        $(this).css('color', '#ec1c24');
+    });
+    
+    //contact 
+/*    $('#contact').click(function() {
+        $('html, body').animate({scrollTop:$('#contact').position().top}, 'slow');
+        console.log('clcik');
+    });*/
+    
 });
