@@ -313,7 +313,7 @@ hr {width: 70px; margin-top: 5px; margin-bottom: 5px; border-top: 1px solid #29a
 .nav-cont ul li {display: inline-block; margin: 0 30px;}
 .nav-cont ul li a{ font-family: 'pt_sansbold'; text-decoration: none; font-size: 0.9em; color: #808080;}
 .main-wrap {padding: 5em;}
-.big-text { font-family: 'pt_serifregular'; font-weight: bold; color: #000000; font-size: 4em;}
+.big-text01 { font-family: 'pt_serifregular'; font-weight: bold; color: #000000; font-size: 4em;}
 .about-para {font-family: 'pt_sansregular'; font-size: 1em; 
 color: #4d4d4d; margin: 8em;}
 .about-para p {margin: 30px 0; text-align: justify;}
@@ -325,7 +325,10 @@ color: #4d4d4d; margin: 8em;}
 .about-left h1 span {color: #5b000b;}
 
 .about-right {background-color: #f1f1f1; height: 100%;}
-.about-right h3{color: #eb1c24; margin-top: 70px;}
-.about-right p {font-family: 'pt_sansregular'; margin: 20px 0; font-size: 1.1em;}
+.about-right h3{color: #eb1c24; margin-top: 100px; font-size: 2em;}
+.about-right p {font-family: 'pt_sansregular'; margin: 20px 0; font-size: 1.2em;}
+.about-right ul {list-style-type: none;padding: 0;}
 
+.about-right ul li {font-size: 2em; line-height: 2; color: #989898;}
 
+.creativeCouncil-wrap {padding: 4em; background-color: #e3e3e3;}

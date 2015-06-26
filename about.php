@@ -40,13 +40,17 @@
            </ul>
        </div>
        <div class="container main-wrap">
-           <div class="big-text text-center">Who we are<span style="color: #eb1c24;">.</span></div>
+           <div class="big-text01 text-center">Who we are<span style="color: #eb1c24;">.</span></div>
            <div class="about-para">
            <p>We are here to  create and transform brands that lasts forever through comprehensive, appropriate and integrated range of marketing communication services. </p>
             <p>We help brands to solve their business challenges with intellectual ideas that revolutionize the competitive landscape. Each challenge is unique and the brands have their own identity which needs to be  understood, researched, managed and effectively proclaimed.  </p>
              <p>o win a customer’s loyalty is currently the aim of major brands across the globe. We provide  advertising expertise, marketing skills, leading - edge technology, first class service, unparalleled insights and a portfolio of services – broadcast, print, digital or experiential to achieve the goal.</p>
            </div>
        </div>
+        <div class="container-fluid creativeCouncil-wrap text-center">
+            <p class="quote">Our Creative Council team gives us ideas from an eagle’s nest and their works<br> are as amazing as they’re</p>
+        </div>
+       
        <div class="container-fluid " id="contact">
 <div class="row cnt-row">
     <div class="col-md-6 about-left">
@@ -63,14 +67,14 @@
                <ul>
                <li>Belief</li>
                <li> <hr style="margin-left: auto; border-top: 1px solid #cbcbcb;"></li>
-               <li>Belief</li>
+               <li>Passion</li>
                <li> <hr style="margin-left: auto; border-top: 1px solid #cbcbcb;"></li>
-               <li>Belief</li>
+               <li>Integrity</li>
                <li> <hr style="margin-left: auto; border-top: 1px solid #cbcbcb;"></li>
-                   <li>Belief</li></ul>
+                   <li>Team Work</li></ul>
            </div>
            </div></div>
-             <div class="clearfix"></div>
+             
 <?php include('footer.html'); ?>
   
         </div>
