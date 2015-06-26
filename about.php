@@ -47,9 +47,7 @@
              <p>o win a customer’s loyalty is currently the aim of major brands across the globe. We provide  advertising expertise, marketing skills, leading - edge technology, first class service, unparalleled insights and a portfolio of services – broadcast, print, digital or experiential to achieve the goal.</p>
            </div>
        </div>
-        <div class="container-fluid creativeCouncil-wrap text-center">
-            <p class="quote">Our Creative Council team gives us ideas from an eagle’s nest and their works<br> are as amazing as they’re</p>
-        </div>
+        
        
        <div class="container-fluid " id="contact">
 <div class="row cnt-row">
@@ -74,6 +72,49 @@
                    <li>Team Work</li></ul>
            </div>
            </div></div>
+            
+            <div class="container-fluid creativeCouncil-wrap text-center">
+            <p class="quote"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 team">
+                       <div class="p1">
+                        <div class="name-box text-left">
+                          <div class="table">
+                           <div class="cell">
+                            Venkat Raja - <span>Founder</span>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 team">
+                        <div class="p2">
+                           <div class="name-box text-left">
+                          <div class="table">
+                           <div class="cell">
+                            Venkat Raja - <span>Founder</span>
+                            </div>
+                            </div>
+                        </div>  
+                        </div>
+                    </div>
+                    <div class="col-md-4 team">
+                        <div class="p3">
+                             <div class="name-box text-left">
+                          <div class="table">
+                           <div class="cell">
+                            Venkat Raja - <span>Founder</span>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+            
              
 <?php include('footer.html'); ?>
   
