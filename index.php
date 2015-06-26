@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
@@ -8,7 +8,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Indian Westeros</title>
         <meta name="description" content="">
-       <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <?php include('link.html'); ?>
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
@@ -33,8 +33,7 @@
     </div>
 </div>
         
-<!--      section 1  -->
-    
+<!--      section 1  -->    
 <div class="container-fluid wrap01 text-center">
     <div class="container">
         <div class="max-cont">
@@ -236,7 +235,6 @@
 <script src="js/jquery.videoBG.js"></script>
 <script>
 $('#video').videoBG({
-	position:"fixed",
     zIndex: 0,
     mp4:'video/time.mp4',
 	ogv:'video/time.ogv',
@@ -248,6 +246,7 @@ $('#video').videoBG({
 
 <script src="js/vendor/bootstrap.min.js"></script>
 <script src="js/slidebars.min.js"></script>
+<script src="js/wow.min.js"></script>
 <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
