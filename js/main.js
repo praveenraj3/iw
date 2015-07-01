@@ -15,16 +15,7 @@ $(window).load(function() {
 
 $(document).ready(function() {
     
-    $(".mm-page").scroll(function() {
-        var h = $(window).scrollTop();
-/*        if(h>200) {
-            $('.menu-icon').fadeIn();
-        }
-        else {
-            $('.menu-icon').fadeOut();
-        }*/
-        console.log(h)
-    });
+
     
     //value
     $('.value h3').click(function() {
@@ -35,6 +26,6 @@ $(document).ready(function() {
     });
     
     //sidebar
-    $('.menu-icon').bigSlide({side: 'right', easyClose: true, menuWidth: '20em'});
+    $('.menu-link').bigSlide({side: 'right', easyClose: true, menuWidth: '20em'});
     
 });

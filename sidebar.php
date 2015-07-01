@@ -9,4 +9,4 @@
     </ul>
     </nav>
     
-   <a href="#menu"><img src="img/menu-icon.png" alt="" class="menu-icon"> </a>
+   <a href="#menu"><img src="img/menu-icon.png" alt="" class="menu-icon menu-link"> </a>

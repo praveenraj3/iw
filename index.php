@@ -11,14 +11,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <?php include('link.html'); ?>
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <style>
+        .menu-icon {display: none}
+        </style>
     </head>
     <body>
-      <div class="loading">
-    <div class="loading-gif">
-        <img src="img/loading.GIF" alt="Loading">
-    </div>
-</div>
-       <div id="sb-site">
+
+       <div id="page" class="push">
+       
+        <div class="loading">
+            <div class="loading-gif">
+                <img src="img/loading.GIF" alt="Loading">
+            </div>
+        </div>
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -28,7 +33,7 @@
    <div class="container-fluid index" id="video">
     <div class="black-mask">
         <?php include( 'nav.html'); ?>
-        <div class="table">
+        <div class="table-t">
             <div class="text-center cell">
                 <div class="intro-text">WE ARE HERE TO
                     <br><span>CREATE &amp; TRANSFORM BRANDS</span>
@@ -42,9 +47,9 @@
 <div class="container-fluid wrap01 text-center">
     <div class="container">
         <div class="max-cont">
-           <div class="wrap01Text"> We help brands to solve their business challenges,<br> with intellectual ideas that revolutionize the<br> competitive landscape.</div>
+           <div class="wrap01Text wow fadeInRight"> We help brands to solve their business challenges,<br> with intellectual ideas that revolutionize the<br> competitive landscape.</div>
             <div class="row list-wrap">
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
                
                     <div class="leftSpan">
                     <span class="glyphicon glyphicon-bullhorn"></span></div>
@@ -52,14 +57,14 @@
                 
                 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-stats"></span></div>
                     <div class="rightSpan"><a href="#">Strategic Planning</a></div>
                 
                 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-edit"></span></div>
                     <div class="rightSpan"><a href="#">Creative Design</a></div>
@@ -68,21 +73,21 @@
                 </div>
             </div>
             <div class="row list-wrap">
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-thumbs-up"></span></div>
                     <div class="rightSpan"><a href="#">Digital Marketing</a></div>
                 
                 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
                
                     <div class="leftSpan"><span class="glyphicon glyphicon-random"></span></div>
                     <div class="rightSpan"><a href="#">Experiential Marketing</a></div>
                
                 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-facetime-video"></span></div>
                     <div class="rightSpan"><a href="#">Media Relations</a></div>
@@ -91,21 +96,21 @@
                 
             </div>
             <div class="row list-wrap">
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-user"></span></div>
                     <div class="rightSpan"><a href="#">Public Affairs</a></div>
                
                 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
                
                     <div class="leftSpan"><span class="glyphicon glyphicon-heart"></span></div>
                     <div class="rightSpan"><a href="#">Public Relations</a></div>
                
                 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-signal"></span></div>
                     <div class="rightSpan"><a href="#">Trade Marketing</a></div>
@@ -119,21 +124,21 @@
        
         <div class="container wrap02">
           <div class="row">
-              <div class="col-md-3 text-center"><img src="img/vccircle.jpg"/></div>
-              <div class="col-md-3 text-center"><img src="img/yamaha.jpg"/></div>
-              <div class="col-md-3 text-center"><img src="img/espa.jpg"/></div>
-              <div class="col-md-3 text-center"><img src="img/vccircle.jpg"/></div>
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.2s"><img src="img/vccircle.jpg"/></div>
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.4s"><img src="img/yamaha.jpg"/></div>
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.6s"><img src="img/espa.jpg"/></div>
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.8s"><img src="img/vccircle.jpg"/></div>
           </div>
            </div>
            
            
            <div class="container-fluid wrap03">
-              <div class="row-fluid">
+              <div class="row">
                   <div class="col-md-8 big-coloumn">
-                  <div class="table">
-                      <div class="cell text-center big-text">Neque porro quisquam est qui <br>dolorem ipsum
+                  <div class="table-t">
+                      <div class="cell text-center big-text wow fadeInDown">Neque porro quisquam est qui <br>dolorem ipsum
                       <br> <br>
-                      <a href="#" class="btn">View Project</a>
+                      <a href="#" class="btn wow fadeInUp animated" data-wow-delay="0.5s">View Project</a>
                       </div>
                       
                   </div>
@@ -144,17 +149,17 @@
                          <img src="img/zoom.png" alt="" class="zoom-icon"/>
                           <div class="content-box">
                            
-                            <h5>Neque <span>porro</span></h5>
-                        <p>Neque porro quisquam est qui <br>dolorem ipsum</p>
+                            <h5 class="wow fadeInDown">Neque <span>porro</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
                         </div>
                         </div>
-                        
+                        </div> <div class="row">                        
                         <div class="col-md-12 small-coloumn sm-bg02">
                          <img src="img/zoom.png" alt="" class="zoom-icon"/>
                           <div class="content-box">
                            
-                            <h5>Neque <span>porro</span></h5>
-                        <p>Neque porro quisquam est qui <br>dolorem ipsum</p>
+                            <h5 class="wow fadeInDown">Neque <span>porro</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
                         </div>
                         </div>
                         
@@ -163,12 +168,14 @@
               </div>
                
            </div>
+           
+           
            <div class="container-fluid wrap04 text-center">
-              <p class="quote"><strong style="color: #ec1c24; font-family: serif;">"</strong> In marketing to create an emotional bond is one of the toughest<br> tasks.  And it can be only achieved by understanding the <br>consumer’s day to day journey.<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+              <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> In marketing to create an emotional bond is one of the toughest<br> tasks.  And it can be only achieved by understanding the <br>consumer’s day to day journey.<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
                <div class="container">
                   <div class="main-cont">
                    <div class="row text-center">
-                       <div class="col-md-4">
+                       <div class="col-md-4 wow fadeIn" data-wow-delay="0.2s">
                           <div class="twit01 text-left review">
                               <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                               <hr>
@@ -176,7 +183,7 @@
                               </div>
                            </div>
                        </div>
-                       <div class="col-md-4">
+                       <div class="col-md-4 wow fadeIn" data-wow-delay="0.4s">
                             <div class="twit02 text-left review">
                               <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                               <hr>
@@ -185,7 +192,7 @@
                           </div>
                            
                        </div>
-                       <div class="col-md-4">
+                       <div class="col-md-4 wow fadeIn" data-wow-delay="0.6s">
                             <div class="twit03 text-left review">
                               <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                               <hr>
@@ -216,20 +223,11 @@
         
         
         <?php include('footer.html'); ?>   
-        
+        <?php include('sidebar.php');?>
       
         </div>
         
-<div class="sb-slidebar sb-right sb-momentum-scrolling">
-<?php include('sidebar.php');?>
-<ul class="social">
-    <a href="https://www.facebook.com/pages/IndianWesteros/1080710035276088?ref=ts&fref=ts" target="_blank"><li class="fb"></li></a>
-    <a href="#"><li class="tw"></li></a>
-</ul>
-</div>
 
-        
- 
         
    
  <!-- /container -->
@@ -250,9 +248,19 @@ $('#video').videoBG({
 </script>
 
 <script src="js/vendor/bootstrap.min.js"></script>
-<script src="js/slidebars.min.js"></script>
 <script src="js/wow.min.js"></script>
+<script src="js/bigSlide.js"></script>
 <script src="js/main.js"></script>
+<script>
+    $(window).scroll(function () {
+        var h = $(window).scrollTop();
+        if (h > 200) {
+            $('.menu-icon').fadeIn();
+        } else {
+            $('.menu-icon').fadeOut();
+        }
+    });
+</script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>

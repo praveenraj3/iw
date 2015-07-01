@@ -14,14 +14,7 @@
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
-      <div class="loading">
-    <div class="loading-gif">
-        <img src="img/loading.GIF" alt="Loading">
-    </div>
-</div>   
-    
-           
-       
+   
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -31,6 +24,12 @@
         
 
     <div id="page" class="push">
+        <div class="loading">
+            <div class="loading-gif">
+                <img src="img/loading.GIF" alt="Loading">
+            </div>
+        </div>
+               
         <div class="container-fluid about-header wow fadeInDown animated">
         <div class="container text-center">
             <a href="index.php"><img src="img/logo-about.png" alit="" class="brand-about"/></a>
@@ -60,8 +59,8 @@
        <div class="container-fluid contact">
 <div class="row cnt-row">
     <div class="col-md-6 about-left">
-       <div class="table">
-        <div class="cell text-center"><h1>
+       <div class="table-t">
+        <div class="cell text-center wow fadeInUp"><h1>
             Our Values<span>.</span>
         </h1></div></div>
     </div>
@@ -70,28 +69,28 @@
 <div class="table-t">
     <div class="table-cell">
                     <div class="value">
-                    <h3>Freshness</h3>
+                    <h3 class="wow fadeIn">Freshness</h3>
                     <p class="note">We deliver fresh ideas that will change the way
                         <br>consumers think, feel or act towards a brand.</p>
                 </div>
                <hr style="margin-left: auto; border-top: 1px solid #cbcbcb; margin-top: 1.5em; margin-bottom: 1.5em">
                 <div class="value">
-                    <h3 class="dum">Belief</h3>
+                    <h3 class="wow fadeIn" data-wow-delay="0.2s">Belief</h3>
                     <p class="note">We believe in our clients products and services </p>
                 </div> 
                                <hr style="margin-left: auto; border-top: 1px solid #cbcbcb; margin-top: 1.5em; margin-bottom: 1.5em">  
                 <div class="value">
-                    <h3>Passion</h3>
+                    <h3 class="wow fadeIn" data-wow-delay="0.4s">Passion</h3>
                     <p class="note">We are passionate about serving our customers and offer them the means to fully benefit from our experience and expertise in providing quality marketing communication solutions.</p>
                                <hr style="margin-left: auto; border-top: 1px solid #cbcbcb; margin-top: 1.5em; margin-bottom: 1.5em"></div>
                 
                 <div class="value">
-                    <h3>Integrity</h3>
+                    <h3 class="wow fadeIn" data-wow-delay="0.6s">Integrity</h3>
                             <p class="note">We promote integrity and honesty with all our stakeholders, our colleagues, our suppliers and ourselves to establish long lasting, valuable relationship based on mutual respect and trust.</p>
                 </div>  
                 <hr style="margin-left: auto; border-top: 1px solid #cbcbcb; margin-top: 1.5em; margin-bottom: 1.5em">
                 <div class="value">
-                    <h3>Team Work</h3>
+                    <h3 class="wow fadeIn" data-wow-delay="0.8s">Team Work</h3>
                     <p class="note">We aim to foster and provide a friendly work environment where each member will work as a team for the company’s success. </p>
                 </div> 
 </div> 
@@ -101,10 +100,10 @@
            </div></div>
             
             <div class="container-fluid creativeCouncil-wrap text-center">
-            <p class="quote"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+            <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 team">
+                    <div class="col-md-4 team wow fadeIn">
                        <div class="p1">
                         <div class="name-box text-left">
                           <div class="table">
@@ -115,7 +114,7 @@
                         </div>
                         </div>
                     </div>
-                    <div class="col-md-4 team">
+                    <div class="col-md-4 team wow fadeIn" data-wow-delay="0.4s">
                         <div class="p2">
                            <div class="name-box text-left">
                           <div class="table">
@@ -126,7 +125,7 @@
                         </div>  
                         </div>
                     </div>
-                    <div class="col-md-4 team">
+                    <div class="col-md-4 team wow fadeIn" data-wow-delay="0.8s">
                         <div class="p3">
                              <div class="name-box text-left">
                           <div class="table">
