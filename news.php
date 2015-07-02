@@ -37,16 +37,9 @@
         </div>
 <!--<div class="about-menu"><a href="#"><img src="img/menu.png" alt="" class="menu"/></a></div>-->
         </div>  
-       <div class="container nav-cont text-center wow fadeInDown animated">
-           <ul>
-               <li><a href="about.php">ABOUT</a></li>
-               <li><a href="#">WORK</a></li>
-               <li><a href="#">SERVICES</a></li>
-               <li><a href="#">NEWS &amp; EVENTS</a></li>
-               <li><a href="#">CAREERS</a></li>
-               <li><a href="#contact" >CONTACT</a></li>
-           </ul>
-       </div>
+   
+      <?php include('inner-nav.html'); ?>
+      
        <div class="container main-wrap">
            <div class="big-text01 text-center wow fadeInUp animated">News<span style="color: #eb1c24;">.</span></div>
            </div>
@@ -66,9 +59,9 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mi
             <div class="row text-right social-icon">
                
                       <ul>
-                      <li class="si3"></li>
-                       <li class="si2"></li>
-                       <li class="si1"></li>
+                      <a href="https://www.facebook.com/pages/IndianWesteros/1080710035276088?fref=ts" target="_blank"><li class="si3"></li></a>
+                      <a href="#"><li class="si2"></li></a>
+<!--                       <a href="#"><li class="si1"></li></a>-->
                        </ul>
             </div>
             

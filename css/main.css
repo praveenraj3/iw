@@ -362,3 +362,5 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .smn-news-cont p {font-family: 'pt_sansregular'; color: #808080; text-align: justify;}
 
 .add-main {max-width: 1100px; margin-bottom: 6em;}
+
+.clients {width:250px;}

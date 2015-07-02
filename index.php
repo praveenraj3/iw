@@ -123,11 +123,11 @@
 </div>
        
         <div class="container wrap02">
-          <div class="row">
-              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.2s"><img src="img/vccircle.jpg"/></div>
-              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.4s"><img src="img/yamaha.jpg"/></div>
-              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.6s"><img src="img/espa.jpg"/></div>
-              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.8s"><img src="img/vccircle.jpg"/></div>
+          <div class="row text-center">
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.2s"><img src="img/vccircle.jpg" class="clients"/></div>
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.4s"><img src="img/yamaha.jpg" class="clients"/></div>
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.6s" class="clients"><img src="img/espa.jpg"/></div>
+              <div class="col-md-3 text-center wow fadeIn" data-wow-delay="0.8s"><img src="img/vccircle.jpg" class="clients"/></div>
           </div>
            </div>
            
@@ -144,16 +144,19 @@
                   </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="row">
+                    <div class="row" id="img01">
+                        <a href="img/coloumn-small01.jpg">
                         <div class="col-md-12 small-coloumn sm-bg01">
                          <img src="img/zoom.png" alt="" class="zoom-icon"/>
                           <div class="content-box">
-                           
                             <h5 class="wow fadeInDown">Neque <span>porro</span></h5>
                         <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
                         </div>
                         </div>
-                        </div> <div class="row">                        
+                        </a>
+                        </div> 
+                        <div class="row" id="img02">
+                        <a href="img/coloumn-small02.jpg">                        
                         <div class="col-md-12 small-coloumn sm-bg02">
                          <img src="img/zoom.png" alt="" class="zoom-icon"/>
                           <div class="content-box">
@@ -161,7 +164,7 @@
                             <h5 class="wow fadeInDown">Neque <span>porro</span></h5>
                         <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
                         </div>
-                        </div>
+                        </div></a>
                         
                     </div>
                 </div>
@@ -250,7 +253,9 @@ $('#video').videoBG({
 <script src="js/vendor/bootstrap.min.js"></script>
 <script src="js/wow.min.js"></script>
 <script src="js/bigSlide.js"></script>
+<script src="js/jquery.poptrox.min.js"></script>
 <script src="js/main.js"></script>
+
 <script>
     $(window).scroll(function () {
         var h = $(window).scrollTop();
@@ -260,7 +265,20 @@ $('#video').videoBG({
             $('.menu-icon').fadeOut();
         }
     });
+
+       $(function () {
+
+            var foo = $('#img01,#img02');
+            foo.poptrox({
+                usePopupCaption: false
+            });
+
+        });
 </script>
+        
+       
+     
+       
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>

@@ -4,7 +4,7 @@
         <li><a href="about.php">About</a></li>
         <li><a href="#">Work</a></li>
         <li><a href="#">Services</a></li>
-        <li><a href="#">News &amp; Events</a></li>
+        <li><a href="news.php">News &amp; Events</a></li>
         <li><a href="#contact">Contact Us</a></li>
     </ul>
     </nav>

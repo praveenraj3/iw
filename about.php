@@ -36,16 +36,8 @@
         </div>
 <!--<div class="about-menu"><a href="#"><img src="img/menu.png" alt="" class="menu"/></a></div>-->
         </div>  
-       <div class="container nav-cont text-center wow fadeInDown animated">
-           <ul>
-               <li><a href="about.php">ABOUT</a></li>
-               <li><a href="#">WORK</a></li>
-               <li><a href="#">SERVICES</a></li>
-               <li><a href="#">NEWS &amp; EVENTS</a></li>
-               <li><a href="#">CAREERS</a></li>
-               <li><a href="#contact" >CONTACT</a></li>
-           </ul>
-       </div>
+      <?php include('inner-nav.html'); ?>
+      
        <div class="container main-wrap">
            <div class="big-text01 text-center wow fadeInUp animated">Who we are<span style="color: #eb1c24;">.</span></div>
            <div class="about-para wow fadeInUp animated" data-wow-delay="0.2s">
