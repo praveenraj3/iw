@@ -364,3 +364,21 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .add-main {max-width: 1100px; margin-bottom: 6em;}
 
 .clients {width:250px;}
+
+/*service page*/
+.service-wrap {margin-bottom: 0; padding-bottom: 5em}
+#serviceIcon {padding: 1em 10em; margin-bottom: 3em;}
+#serviceIcon img {width: 100%; max-width: 100px;}
+#serviceIcon span {font-family: 'pt_sansregular', sans-serif; color: #808080; font-size: 1em; line-height: 3;}
+#serviceIcon .row div {-webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
+#serviceIcon .row div:hover {margin-top: -10px;}
+.service, .service div {height: 100%;}
+.service a {background: #ec1c24; color: #fff; text-decoration: none; font-size: 1.2em; padding: 0.4em 1.25em; font-family: 'pt_sansregular', sans-serif;}
+.service a:hover {background: #fff; color: #ec1c24;}
+.service .col-md-12 {padding: 4em; text-align: center;}
+.service h1 {font-size: 4em; margin-bottom: 0.7em;}
+.service p {font-family: 'pt_sansregular', sans-serif; font-size: 1.1em;}
+.service.one {background: url(../img/service-bg-1.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff;}
+.service.two {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d;}
+.service.three {background: url(../img/service-bg-3.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
+.service.four {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d; }

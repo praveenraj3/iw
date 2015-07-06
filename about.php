@@ -43,7 +43,7 @@
            <div class="about-para wow fadeInUp animated" data-wow-delay="0.2s">
            <p>We are here to  create and transform brands that lasts forever through comprehensive, appropriate and integrated range of marketing communication services. </p>
             <p>We help brands to solve their business challenges with intellectual ideas that revolutionize the competitive landscape. Each challenge is unique and the brands have their own identity which needs to be  understood, researched, managed and effectively proclaimed.  </p>
-             <p>o win a customer’s loyalty is currently the aim of major brands across the globe. We provide  advertising expertise, marketing skills, leading - edge technology, first class service, unparalleled insights and a portfolio of services – broadcast, print, digital or experiential to achieve the goal.</p>
+             <p>To win a customer’s loyalty is currently the aim of major brands across the globe. We provide  advertising expertise, marketing skills, leading - edge technology, first class service, unparalleled insights and a portfolio of services – broadcast, print, digital or experiential to achieve the goal.</p>
            </div>
        </div>
         
