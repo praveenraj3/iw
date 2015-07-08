@@ -8,8 +8,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>About Us - Indian Westeros</title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-       
+        <meta name="viewport" content="width=device-width, initial-scale=1">
          <?php include('link.html'); ?>
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
@@ -92,14 +91,15 @@
            </div></div>
             
             <div class="container-fluid creativeCouncil-wrap text-center">
-            <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+            <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br class="visible-md visible-lg"> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
             <div class="container">
                 <div class="row">
                    <a href="#" class="popup" data-img="per1.jpg" data-text="<span>Venkat Raja</span><br> <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, optio, aliquid! Eum rem non dolor culpa dolorum suscipit magnam velit vitae ea, tenetur, omnis dolore, eius aspernatur, ratione eligendi perspiciatis.">
                     <div class="col-md-4 team wow fadeIn">
+                     
                        <div class="p1">
                         <div class="name-box text-left">
-                          <div class="table">
+                          <div class="table-t">
                            <div class="cell">
                             Venkat Raja - <span>Founder</span>
                             </div>
@@ -107,24 +107,30 @@
                         </div>
                         </div>
                     </div></a>
+                    
                    <a href="#" class="popup" data-img="per2.jpg" data-text="<span>Rakesh NS</span><br> <br>His style of film making is niche, techy and extremely thought provoking. He has worked with some of the big ad agencies in the market, before being named as one of the finalist in the television reality show “ Nalaya Iyakkunar”.  Later, he entered into the movie business and took the role of “Associate Director” – where he worked with Mr. Sarvanan & Mr. Nalan Kumaraswamy. He is nowhere to create his own legacy.">
+
                     <div class="col-md-4 team wow fadeIn" data-wow-delay="0.4s">
+                        
                         <div class="p2">
                            <div class="name-box text-left">
-                          <div class="table">
+                          <div class="table-t">
                            <div class="cell">
                             Rakesh NS - <span>Designation</span>
                             </div>
                             </div>
                         </div>  
                         </div>
+                        
                     </div>
                     </a>
+                    
                     <a href="#" class="popup" data-img="per3.jpg" data-text="<span>Dipesh Thakkar</span><br> <br>His aspirations are sky high, which equally meets his flair in the field of OOH Advertising. He played a key role in promoting one of the India’s ministry of commerce sponsored NPO to reach greater heights through his commendable works. He is here, to help us explore all the advertisement mediums outside the home.">
                     <div class="col-md-4 team wow fadeIn" data-wow-delay="0.8s">
+
                         <div class="p3">
                              <div class="name-box text-left">
-                          <div class="table">
+                          <div class="table-t">
                            <div class="cell">
                             Dipesh Thakkar  - <span>OOH, Director</span>
                             </div>
@@ -202,7 +208,9 @@
         <script src="js/vendor/bootstrap.min.js"></script>
         <script src="js/wow.min.js"></script>
         <script src="js/bigSlide.js"></script>
+        <script src="js/jquery.poptrox.min.js"></script>
         <script src="js/main.js"></script>
+
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
