@@ -28,4 +28,35 @@ $(document).ready(function() {
     //sidebar
     $('.menu-link').bigSlide({side: 'right', easyClose: true, menuWidth: '20em'});
     
+    //about popup
+    
+    $('.popup').click(function(e) {
+        e.preventDefault();
+        var img = $(this).data('img'),
+            text = $(this).data('text');
+        $('.popupImage').css('background-image', 'url(img/' + img +')');
+        $('.popupText').html(text);
+        $('#page').css('filter', 'blur(7px)').css('webkitFilter', 'blur(7px)').css('mozFilter', 'blur(7px)').css('oFilter', 'blur(7px)').css('msFilter', 'blur(7px)');
+        
+        $('#popup').fadeIn(function() {
+            $(this).addClass('on');
+        });
+        
+    });
+    
+    function closePop() {
+            if($('#popup').hasClass('on')) {
+                $('#popup').fadeOut();
+                $('#popup').removeClass('on');
+                $('#page').css('filter', 'blur(0px)').css('webkitFilter', 'blur(0px)').css('mozFilter', 'blur(0px)').css('oFilter', 'blur(0px)').css('msFilter', 'blur(0px)');
+            }
+    }
+    
+    $(document).click(function() { closePop(); });
+    $(document).keyup(function(e) {
+        if(e.keyCode == 27) { closePop(); }
+    });
+    
+    //about popup end
+    
 });

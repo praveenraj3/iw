@@ -68,13 +68,22 @@
             <div class="col-md-12">
                 <div class="table-t">
                     <div class="table-cell">
-                                        <h1>Advertising<span style="color: #eb1c24;">.</span></h1>
-                <p>We create effective advertising that extends from sound marketing strategy. We do that by intensive research, valuable customer insights and talented people working in synergy to deliver more than promised.
-</p>
-           <p>
-We don’t overwhelm the strategy through creative ideas. But, our ideas are ingenious.
-           </p> <br><br>
-                   <a href="#contact">Hire us</a>
+                        <h1>Advertising<span style="color: #eb1c24;">.</span></h1>
+                        <p>
+                        We create effective advertising that extends from sound marketing strategy. We do that by intensive research, valuable customer insights and talented people working in synergy to deliver more than promised.
+                        </p>
+                        <p>
+                        We don’t overwhelm the strategy through creative ideas. But, our ideas are ingenious.
+                        </p>
+                        <ul class="service-type">
+                            <li>Broadcast</li>
+                            <li>Print</li>
+                            <li>Digital</li>
+                            <li>Experiential</li>
+                        </ul>
+                        <br>
+                        <br>
+                        <a href="#contact">Hire us</a>
                     </div>
                 </div>
             </div>
@@ -129,7 +138,56 @@ We don’t overwhelm the strategy through creative ideas. But, our ideas are ing
                                         <h1>Experiential Marketing<span style="color: #eb1c24;">.</span></h1>
                 <p>In marketing to create an emotional bond is one of the toughest tasks. And it can be only achieved by understanding the consumer’s day to day journey. We can help you create brand experiences that will appeal to consumer senses and they will always remember what you made them feel
 </p>
-       <p>Our activation partners will help you with creating smartest plan of action for, Guerilla Marketing, Relationship Marketing, Promotional Marketing, Consumer events &amp; exhibits, Digital out of home, Outdoor displays</p>
+       <p>Our activation partners will help you with creating smartest plan of action for</p>
+       <br>
+       <ul class="service-type">
+           <li>Guerilla Marketing</li>
+           <li>Relationshiop Marketing</li>
+           <li>Promotional Marketing</li>
+           <li>Consumer Events &amp; Exhibits</li>
+           <li>Digital Out of Home</li>
+           <li>Outdoor Displays</li>
+       </ul>
+       
+        <br><br>
+                   <a href="#contact">Hire us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--    section5-->
+<div class="container-fluid service five" id="digital">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-t">
+                    <div class="table-cell">
+                                        <h1>Digital Marketing<span style="color: #eb1c24;">.</span></h1>
+                <p>Strategic presence creation through digital mediums enable firms to easily promote their products, monitor customer responses and provides them the opportunity to analyse social media outreach. The Indian Westeros DM team are experts in online reputation management, social media campaigns, social media release, social media strategy and will provide end to end digital PR solutions, whenever needed.
+</p>
+       
+        <br><br>
+                   <a href="#contact">Hire us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--    section6-->
+<div class="container-fluid service six" id="media">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-t">
+                    <div class="table-cell">
+                                        <h1>Media Relations<span style="color: #eb1c24;">.</span></h1>
+                <p>We give your products the right kind of media attention to develop public image and foster goodwill toward the organization.  The role of media is to “tell the story, not to tell your story”, we understand it through our proactive media relations, our paid advertising services can get your product out there at right time and at right spot.
+</p>
        
         <br><br>
                    <a href="#contact">Hire us</a>

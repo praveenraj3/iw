@@ -48,7 +48,7 @@ html, body {width: 100%; font-family: 'pt_serifregular'; font-size: 1em;}
 
 
 
-#page {height: 100vh; background: #fff; position: relative;}
+#page {height: 100vh; background: #fff; position: relative; -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
 
 .none-padding { padding: 0 !important;
    margin: 0 !important;}
@@ -329,6 +329,9 @@ overflow: hidden; margin-bottom: 4em;}
 .p2 { width: 100%; height: 100%; background: url(../img/per2.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
 
 .p3 { width: 100%; height: 100%; background: url(../img/per3.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
+.p4 { width: 100%; height: 100%; background: url(../img/per4.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
+.p5 { width: 100%; height: 100%; background: url(../img/per5.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
+.p6 { width: 100%; height: 100%; background: url(../img/per6.jpg) no-repeat 50% 50%; background-size: cover; position: relative;}
 
 .name-box { background-color: rgba(235,28,36, 0.8); 
 padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; height: 50px; font-family: 'pt_sansregular'; padding-left: 30px; font-size: 1.3em;
@@ -366,7 +369,7 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .clients {width:250px;}
 
 /*service page*/
-.service-wrap {margin-bottom: 0; padding-bottom: 5em}
+.service-wrap {margin-bottom: 0; padding-bottom: 5em;}
 #serviceIcon {padding: 1em 10em; margin-bottom: 3em;}
 #serviceIcon img {width: 100%; max-width: 100px;}
 #serviceIcon span {font-family: 'pt_sansregular', sans-serif; color: #808080; font-size: 1em; line-height: 3;}
@@ -374,7 +377,7 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 #serviceIcon .row div:hover {margin-top: -10px;}
 .service, .service div {height: 100%;}
 .service a {background: #ec1c24; color: #fff; text-decoration: none; font-size: 1.2em; padding: 0.4em 1.25em; font-family: 'pt_sansregular', sans-serif;}
-.service a:hover {background: #fff; color: #ec1c24;}
+.service a:hover {background: #fff; color: #ec1c24; border: 1px solid #ec1c24}
 .service .col-md-12 {padding: 4em; text-align: center;}
 .service h1 {font-size: 4em; margin-bottom: 0.7em;}
 .service p {font-family: 'pt_sansregular', sans-serif; font-size: 1.1em;}
@@ -382,3 +385,13 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .service.two {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d;}
 .service.three {background: url(../img/service-bg-3.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
 .service.four {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d; }
+.service.five {background: url(../img/digital-bg.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
+.service.six {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d; }
+
+#popup {position: fixed; top: 20%; left: 50%; margin-left: -30vw; width: 60vw; height: 60vh; background: #fff; -webkit-box-shadow: 0 0 10px #838383; box-shadow: 0 0 10px #838383; display: none}
+#popup div {height: 100%;}
+.popupImage {height: 100%; background-repeat: no-repeat; -webkit-background-size: cover; background-size: cover; background-position: 50% 50%;}
+.popupText {color: #989898; font-family: 'pt_sansregular', sans-serif; font-size: 1.1em; padding-top: 2em;}
+.popupText span {color: #ec1c24; font-size: 1.5em;}
+.service-type li {display: inline; padding: 0 20px; font-size: 1.5em; border-right: 1px dotted #ec1c24}
+.service-type li:last-child {border-right: none}

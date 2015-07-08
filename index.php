@@ -96,7 +96,7 @@
                 
             </div>
             <div class="row list-wrap">
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+<!--                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
                 
                     <div class="leftSpan"><span class="glyphicon glyphicon-user"></span></div>
                     <div class="rightSpan"><a href="#">Public Affairs</a></div>
@@ -116,7 +116,7 @@
                     <div class="rightSpan"><a href="#">Trade Marketing</a></div>
                 
                 
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
