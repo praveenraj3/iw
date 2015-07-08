@@ -56,7 +56,7 @@ dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consect
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
                 </div>
             </div>
-            <div class="row text-right social-icon">
+            <div class="row text-right social-icon hidden-xs">
                
                       <ul>
                       <a href="https://www.facebook.com/pages/IndianWesteros/1080710035276088?fref=ts" target="_blank"><li class="si3"></li></a>
@@ -73,7 +73,7 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mi
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
 dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+</p>
                     </div>
                 </div>
                 <div class="col-md-6 small-news">
@@ -83,7 +83,7 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mi
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
 dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+</p>
                     </div>
                 </div>
             </div>

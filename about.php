@@ -8,8 +8,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>About Us - Indian Westeros</title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-       
+        <meta name="viewport" content="width=device-width, initial-scale=1">
          <?php include('link.html'); ?>
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
@@ -92,41 +91,47 @@
            </div></div>
             
             <div class="container-fluid creativeCouncil-wrap text-center">
-            <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+            <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br class="visible-md visible-lg"> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 team wow fadeIn">
+                     
                        <div class="p1">
                         <div class="name-box text-left">
-                          <div class="table">
+                          <div class="table-t">
                            <div class="cell">
                             Venkat Raja - <span>Founder</span>
                             </div>
                             </div>
                         </div>
                         </div>
+                     
                     </div>
                     <div class="col-md-4 team wow fadeIn" data-wow-delay="0.4s">
+                        
                         <div class="p2">
                            <div class="name-box text-left">
-                          <div class="table">
+                          <div class="table-t">
                            <div class="cell">
                             Venkat Raja - <span>Founder</span>
                             </div>
                             </div>
                         </div>  
                         </div>
+                        
                     </div>
                     <div class="col-md-4 team wow fadeIn" data-wow-delay="0.8s">
+
                         <div class="p3">
                              <div class="name-box text-left">
-                          <div class="table">
+                          <div class="table-t">
                            <div class="cell">
                             Venkat Raja - <span>Founder</span>
                             </div>
                             </div>
                         </div>
                         </div>
+                       
                     </div>
                 </div>
             </div>
@@ -150,7 +155,9 @@
         <script src="js/vendor/bootstrap.min.js"></script>
         <script src="js/wow.min.js"></script>
         <script src="js/bigSlide.js"></script>
+        <script src="js/jquery.poptrox.min.js"></script>
         <script src="js/main.js"></script>
+
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
