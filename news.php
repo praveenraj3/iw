@@ -49,11 +49,26 @@
                 <div class="col-md-4 left-news">
                 </div>
                 <div class="col-md-8 right-news">
-                     <h2>New Launches</h2>
+                     <h2>Do you want to capitalize your participation at Poultry India or Just be another exhibiting company?</h2>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                     <p>When you try to explore opportunities or create leads through an exhibition the major query to be answered is – whether, your company wants to be just an exhibitor or a company which will run a campaign based on the trade show, which none of your competitors or customers could have ever imagined or scouted.</p>
+                     <p>
+                         We at Indian Westeros, are experts in running advertisement campaigns. A recent research by green book suggests that, to be successful at a trade show the companies need to promote or advertise their products in every medium that the targeted audience can come across before, during and after the show. 
+                     </p>
+                     <ul class="news-list">
+                         <li><span>This method will ensure 80% of the visitors to visit your stall during the show </span></li>
+                         <li><span>Your clients will be able to recall your brand promise</span> </li>
+                         <li><span>You will be able to touch their lives personally</span></li>
+                     </ul>
+                     <p>
+                         For example, your prospect has just reached the airport and on his way from the terminal to the exit, he notices a billboard advertisement on behalf of your company, which says “ We are here to solve your birds intestinal health problems – Visit us at Poultry India 2015 to know more”.  The above Ad was just an idea and at this point of contact, your prospect has already made his decision to visit your stall to know more about your products. 
+                     </p>
+                     <p>
+                         There are n-number of mediums that can be employed to make your clients realise your value and services.This doesn’t stop there, we help you to <b>build your stall</b>, tap the untapped <b>advertising mediums</b>, help you to run a <b>social media campaign</b>. This is our promise that will be delivered at  Poultry India 2015. 
+                     </p>
+                     <p>
+                         For more information, email us at info@indianwesteros.com or <a href="#contact" style="color: #eb1c24">Click here to leave a message</a>
+                     </p>
                 </div>
             </div>
             <div class="row text-right social-icon hidden-xs">
@@ -61,11 +76,10 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mi
                       <ul>
                       <a href="https://www.facebook.com/pages/IndianWesteros/1080710035276088?fref=ts" target="_blank"><li class="si3"></li></a>
                       <a href="#"><li class="si2"></li></a>
-<!--                       <a href="#"><li class="si1"></li></a>-->
                        </ul>
             </div>
             
-            <div class="row">
+<!--            <div class="row">
                 <div class="col-md-6 small-news">
                    <div class="smn smn-bg"></div>
                     <div class="smn-news-cont">
@@ -86,7 +100,7 @@ dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consect
 </p>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
           
        <div class="container add-main">

@@ -53,21 +53,21 @@
                
                     <div class="leftSpan">
                     <span><img src="img/speaker-icon.png" alt="" class="mark-icon"/></span></div>
-                    <div class="rightSpan"><a href="#">Advertising</a></div>
+                    <div class="rightSpan"><a href="services.php#advertising">Advertising</a></div>
                 
                 
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
                 
                     <div class="leftSpan"><span><img src="img/sp-icon.png" alt="" class="mark-icon"/></span></div>
-                    <div class="rightSpan"><a href="#">Strategic Planning</a></div>
+                    <div class="rightSpan"><a href="services.php#">Strategic Planning</a></div>
                 
                 
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12  wow fadeInUp" data-wow-delay="0.6s">
                 
                     <div class="leftSpan"><span><img src="img/cd-icon.png" alt="" class="mark-icon"/></span></div>
-                    <div class="rightSpan"><a href="#">Creative Design</a></div>
+                    <div class="rightSpan"><a href="services.php#creative-design">Creative Design</a></div>
               
                 
                 </div>
@@ -76,21 +76,21 @@
                 <div class="col-md-4 col-sm-12 col-xs-12  wow fadeInUp" data-wow-delay="0.2s">
                 
                     <div class="leftSpan"><span><img src="img/dg-icon.png" alt="" class="mark-icon"/></span></div>
-                    <div class="rightSpan"><a href="#">Digital Marketing</a></div>
+                    <div class="rightSpan"><a href="services.php#digital">Digital Marketing</a></div>
                 
                 
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
                
                     <div class="leftSpan"><span><img src="img/em-icon.png" alt="" class="mark-icon"/></span></div>
-                    <div class="rightSpan"><a href="#">Experiential Marketing</a></div>
+                    <div class="rightSpan"><a href="services.php#marketing">Experiential Marketing</a></div>
                
                 
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.6s">
                 
                     <div class="leftSpan"><span></span><img src="img/mm-icon.png" alt="" class="mark-icon"/></div>
-                    <div class="rightSpan"><a href="#">Media Relations</a></div>
+                    <div class="rightSpan"><a href="services.php#media">Media Relations</a></div>
                 </div>
                 
                 
@@ -206,13 +206,11 @@
                        </div>
                    </div>
                    
-               <div class="row add">
-                   <div class="col-md-3 left-grid"></div>
-                   <div class="col-md-9 right-grid text-left">
-                     
-                       <h3>We’re Hiring!!!</h3>
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                       <h4>careers@indianwesteros.com</h4>
+               <div class="row">
+                   <div class="col-md-12 poultryAdd">
+                     <h6>NEWS / EVENTS</h6> <br>
+                      <h1>Do you want to capitalize your participation at Poultry India or Just be another exhibiting company?</h1> <br><br>
+                      <a href="news.php" class="btn">Read More</a>
                        
                    </div>
                </div>
