@@ -72,6 +72,9 @@
     .twit-content h4 {font-size: 12pt;}
      .cnt-right h2 {margin-top: 0; padding-top: 30px; margin-bottom: 30px;}
     .rightSpan a {line-height: 1.5;}
+    .name-box {font-size: 12pt;}
+    .mark-icon {width: 25px;}
+    .leftSpan span img {vertical-align: text-top;}
 
 }
 
@@ -126,6 +129,7 @@
     .cnt-right h2 {margin-top: 0; padding-top: 30px; margin-bottom: 30px;}
     .rightSpan a {line-height: 1.5;}
     .name-box {font-size: 12pt;}
-    .mark-icon {width: 30px;}
+    .mark-icon {width: 25px;}
+    .leftSpan span img {vertical-align: text-top;}
 }
     
