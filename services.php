@@ -30,6 +30,11 @@
             </div>
         </div>
                
+
+      
+<!--    header section-->
+    <div class="container-fluid service-wrap">
+       
         <div class="container-fluid about-header wow fadeInDown animated">
         <div class="container text-center">
             <a href="index.php"><img src="img/logo-about.png" alit="" class="brand-about"/></a>
@@ -37,15 +42,26 @@
 <!--<div class="about-menu"><a href="#"><img src="img/menu.png" alt="" class="menu"/></a></div>-->
         </div>  
       <?php include('inner-nav.html'); ?>
-      
-<!--    header section-->
-    <div class="container main-wrap service-wrap">
-        <div class="big-text01 text-center wow fadeInUp animated">What we do<span style="color: #eb1c24;">.</span>
+        <div class="big-text01 text-center wow fadeInUp animated">What we do<span style="color: #eb1c24;">.</span></div>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="services">
+                        <li><a href="#advertising">Advertising</a></li>
+                        <li><a href="#strategy">Strategic Planning</a></li>
+                        <li><a href="#branding">Brand Identity</a></li>
+                        <li><a href="#creative-design">Creative Designing</a></li><br>
+                        <li><a href="#marketing">Experiential Marketing</a></li>
+                        <li><a href="#digital">Digital Marketing</a></li>
+                        <li><a href="#media">Media Relations</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
     
     <!--services icon    -->
-    <div class="container" id="serviceIcon">
+<!--    <div class="container" id="serviceIcon">
         <div class="row">
             <div class="col-md-3 text-center">
                 <a href="#advertising"><img src="img/speaker-icon.jpg" alt=""><br><span>ADVERTISING</span></a>
@@ -60,7 +76,8 @@
                 <a href="#marketing"><img src="img/exp-marketing-icon.jpg" alt=""><br><span>MARKETING</span></a>
             </div>
         </div>
-    </div>
+    </div>-->
+    
 <!--    section1-->
 <div class="container-fluid service one" id="advertising">
     <div class="container">
@@ -89,19 +106,25 @@
             </div>
         </div>
     </div>
-</div>
-
+</div>    
+    
 <!--    section2-->
-<div class="container-fluid service two" id="creative-design">
+<div class="container-fluid service two" id="strategy">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6 text-left">
                 <div class="table-t">
                     <div class="table-cell">
-                                        <h1>Creative Designing<span style="color: #eb1c24;">.</span></h1>
-                <p>It’s not just a blank  paper, but a source for our creative team's inspiration to create something new. They are curious, passionate  and they always challenge their limits to  deliver what our customers desire. We also make the process interesting by being logical with the creative minds inside the agency, we ask them to collect, organize, place and ideate the data before unveiling their creativity.
-</p> <br><br>
-                   <a href="#contact">Hire us</a>
+                        <h1>Strategic Planning<span style="color: #eb1c24;">.</span></h1>
+                        <p>
+                        Strategic Planning is a never-ending process at Indian Westeros. We define and redefine goals and objectives, develop strategies and evaluate advertising results. This process begins before research and continues even after the advertisement is run. 
+While creating an ad, we consider the research results; evaluate the media plans and work in sync with client's team to provide detailed marketing &amp; advertising plan
+
+Upon client’s approval, this plan becomes the blueprint for the agency's creative and media program.
+                        </p>
+                        <br>
+                        <br>
+                        <a href="#contact">Hire us</a>
                     </div>
                 </div>
             </div>
@@ -129,7 +152,27 @@
 </div>
 
 <!--    section4-->
-<div class="container-fluid service four" id="marketing">
+<div class="container-fluid service four" id="creative-design">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-t">
+                    <div class="table-cell">
+                                        <h1>Creative Designing<span style="color: #eb1c24;">.</span></h1>
+                <p>It’s not just a blank  paper, but a source for our creative team's inspiration to create something new. They are curious, passionate  and they always challenge their limits to  deliver what our customers desire. We also make the process interesting by being logical with the creative minds inside the agency, we ask them to collect, organize, place and ideate the data before unveiling their creativity.
+</p> <br><br>
+                   <a href="#contact">Hire us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--    section5-->
+<div class="container-fluid service five" id="marketing">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -158,8 +201,8 @@
     </div>
 </div>
 
-<!--    section5-->
-<div class="container-fluid service five" id="digital">
+<!--    section6-->
+<div class="container-fluid service six" id="digital">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -178,8 +221,8 @@
     </div>
 </div>
 
-<!--    section6-->
-<div class="container-fluid service six" id="media">
+<!--    section7-->
+<div class="container-fluid service seven" id="media">
     <div class="container">
         <div class="row">
             <div class="col-md-12">

@@ -209,7 +209,7 @@
                <div class="row">
                    <div class="col-md-12 poultryAdd">
                      <h6>NEWS / EVENTS</h6> <br>
-                      <h1>Do you want to capitalize your participation at Poultry India or Just be another exhibiting company?</h1> <br><br>
+                      <h1>Do you want to capitalize your participation at Poultry Show or Just be another exhibiting company?</h1> <br><br>
                       <a href="news.php" class="btn">Read More</a>
                        
                    </div>

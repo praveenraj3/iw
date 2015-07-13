@@ -373,7 +373,12 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .news-list span {color: #393939; }
 
 /*service page*/
-.service-wrap {margin-bottom: 0; padding-bottom: 5em;}
+.service-wrap {padding: 0; height: 100%;}
+.service-wrap .big-text01 {margin: 1em auto;}
+.service-wrap .services li {display: inline-block; font-size: 1.5em; color: #808080; padding: 0 0.5em; border-right: 1px solid #ec1c24; margin: 0.3em 0;}
+.services li a {color: #808080; text-decoration: none;}
+.services li a:hover {color: #ec1c24}
+.service-wrap .services li:last-child, .service-wrap .services li:nth-child(4) {border: none}
 #serviceIcon {padding: 1em 10em; margin-bottom: 3em;}
 #serviceIcon img {width: 100%; max-width: 100px;}
 #serviceIcon span {font-family: 'pt_sansregular', sans-serif; color: #808080; font-size: 1em; line-height: 3;}
@@ -391,6 +396,7 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .service.four {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d; }
 .service.five {background: url(../img/digital-bg.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
 .service.six {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d; }
+.service.seven {background: url(../img/digital-bg.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
 
 #popup {position: fixed; top: 20%; left: 50%; margin-left: -30vw; width: 60vw; height: 60vh; background: #fff; -webkit-box-shadow: 0 0 10px #838383; box-shadow: 0 0 10px #838383; display: none}
 #popup div {height: 100%;}
