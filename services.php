@@ -45,7 +45,7 @@
         <div class="big-text01 text-center wow fadeInUp animated">What we do<span style="color: #eb1c24;">.</span></div>
         <div class="container text-center">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-12 wow fadeInDown animated" data-wow-delay="0.2s">
                     <ul class="services">
                         <li><a href="#advertising">Advertising</a></li>
                         <li><a href="#strategy">Strategic Planning</a></li>
@@ -85,14 +85,14 @@
             <div class="col-md-12">
                 <div class="table-t">
                     <div class="table-cell">
-                        <h1>Advertising<span style="color: #eb1c24;">.</span></h1>
-                        <p>
+                        <h1 class="wow fadeInUp animated">Advertising<span style="color: #eb1c24;">.</span></h1>
+                        <p class="wow fadeInDown animated" data-wow-delay="0.2s">
                         We create effective advertising that extends from sound marketing strategy. We do that by intensive research, valuable customer insights and talented people working in synergy to deliver more than promised.
                         </p>
-                        <p>
+                        <p class="wow fadeInDown animated" data-wow-delay="0.2s">
                         We don’t overwhelm the strategy through creative ideas. But, our ideas are ingenious.
                         </p>
-                        <ul class="service-type">
+                        <ul class="service-type wow fadeInDown animated" data-wow-delay="0.4s">
                             <li>Broadcast</li>
                             <li>Print</li>
                             <li>Digital</li>
@@ -100,7 +100,7 @@
                         </ul>
                         <br>
                         <br>
-                        <a href="#contact">Hire us</a>
+                        <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
                     </div>
                 </div>
             </div>
@@ -115,8 +115,8 @@
             <div class="col-md-6 text-left">
                 <div class="table-t">
                     <div class="table-cell">
-                        <h1>Strategic Planning<span style="color: #eb1c24;">.</span></h1>
-                        <p>
+                        <h1 class="wow fadeInLeft animated">Strategic Planning<span style="color: #eb1c24;">.</span></h1>
+                        <p class="wow fadeInRight animated">
                         Strategic Planning is a never-ending process at Indian Westeros. We define and redefine goals and objectives, develop strategies and evaluate advertising results. This process begins before research and continues even after the advertisement is run. 
 While creating an ad, we consider the research results; evaluate the media plans and work in sync with client's team to provide detailed marketing &amp; advertising plan
 
@@ -124,9 +124,12 @@ Upon client’s approval, this plan becomes the blueprint for the agency's creat
                         </p>
                         <br>
                         <br>
-                        <a href="#contact">Hire us</a>
+                        <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
                     </div>
                 </div>
+            </div>
+            <div class="col-md-6 wow fadeInRight animated" data-delay-wow="0.4s" id="strategyImg">
+                <img src="img/strategy.jpg" alt="Strategy Planning" title="Strategy Planning">
             </div>
         </div>
     </div>
@@ -139,11 +142,11 @@ Upon client’s approval, this plan becomes the blueprint for the agency's creat
             <div class="col-md-12">
                 <div class="table-t">
                     <div class="table-cell">
-                                        <h1>Brand Identity<span style="color: #eb1c24;">.</span></h1>
-                <p>We can bring your brand into life by creating meaningful marketing strategies through our writers, designers, artists, architects and strategists - whom will enable consumers to connect emotionally towards your brand. We do it, by understanding the capability, personality, cultural values, purpose and self-image of the brand itself.
+                                        <h1 class="wow fadeInUp animated">Brand Identity<span style="color: #eb1c24;">.</span></h1>
+                <p class="wow fadeInDown animated" data-wow-delay="0.2s">We can bring your brand into life by creating meaningful marketing strategies through our writers, designers, artists, architects and strategists - whom will enable consumers to connect emotionally towards your brand. We do it, by understanding the capability, personality, cultural values, purpose and self-image of the brand itself.
 </p>
  <br><br>
-                   <a href="#contact">Hire us</a>
+                   <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
                     </div>
                 </div>
             </div>
@@ -158,10 +161,10 @@ Upon client’s approval, this plan becomes the blueprint for the agency's creat
             <div class="col-md-12">
                 <div class="table-t">
                     <div class="table-cell">
-                                        <h1>Creative Designing<span style="color: #eb1c24;">.</span></h1>
-                <p>It’s not just a blank  paper, but a source for our creative team's inspiration to create something new. They are curious, passionate  and they always challenge their limits to  deliver what our customers desire. We also make the process interesting by being logical with the creative minds inside the agency, we ask them to collect, organize, place and ideate the data before unveiling their creativity.
+                                        <h1 class="wow fadeInUp animated">Creative Designing<span style="color: #eb1c24;">.</span></h1>
+                <p class="wow fadeInDown animated" data-wow-delay="0.2s">It’s not just a blank  paper, but a source for our creative team's inspiration to create something new. They are curious, passionate  and they always challenge their limits to  deliver what our customers desire. We also make the process interesting by being logical with the creative minds inside the agency, we ask them to collect, organize, place and ideate the data before unveiling their creativity.
 </p> <br><br>
-                   <a href="#contact">Hire us</a>
+                   <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
                     </div>
                 </div>
             </div>
@@ -178,22 +181,20 @@ Upon client’s approval, this plan becomes the blueprint for the agency's creat
             <div class="col-md-12">
                 <div class="table-t">
                     <div class="table-cell">
-                                        <h1>Experiential Marketing<span style="color: #eb1c24;">.</span></h1>
-                <p>In marketing to create an emotional bond is one of the toughest tasks. And it can be only achieved by understanding the consumer’s day to day journey. We can help you create brand experiences that will appeal to consumer senses and they will always remember what you made them feel
-</p>
-       <p>Our activation partners will help you with creating smartest plan of action for</p>
+                                        <h1 class="wow fadeInUp animated">Experiential Marketing<span style="color: #eb1c24;">.</span></h1>
+                <p class="wow fadeInDown animated" data-wow-delay="0.2s">In marketing to create an emotional bond is one of the toughest tasks. And it can be only achieved by understanding the consumer’s day to day journey. We can help you create brand experiences that will appeal to consumer senses and they will always remember what you made them feel. Our activation partners will help you with creating smartest plan of action for</p>
        <br>
        <ul class="service-type">
-           <li>Guerilla Marketing</li>
-           <li>Relationshiop Marketing</li>
-           <li>Promotional Marketing</li>
-           <li>Consumer Events &amp; Exhibits</li>
-           <li>Digital Out of Home</li>
-           <li>Outdoor Displays</li>
+           <li class="wow fadeInDown animated" data-wow-delay="0.2s">Guerilla Marketing</li>
+           <li class="wow fadeInDown animated" data-wow-delay="0.3s">Relationshiop Marketing</li>
+           <li class="wow fadeInDown animated" data-wow-delay="0.4s">Promotional Marketing</li>
+           <li class="wow fadeInDown animated" data-wow-delay="0.5s">Consumer Events &amp; Exhibits</li>
+           <li class="wow fadeInDown animated" data-wow-delay="0.6s">Digital Out of Home</li>
+           <li class="wow fadeInDown animated" data-wow-delay="0.7s">Outdoor Displays</li>
        </ul>
        
         <br><br>
-                   <a href="#contact">Hire us</a>
+                   <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
                     </div>
                 </div>
             </div>
@@ -208,12 +209,12 @@ Upon client’s approval, this plan becomes the blueprint for the agency's creat
             <div class="col-md-12">
                 <div class="table-t">
                     <div class="table-cell">
-                                        <h1>Digital Marketing<span style="color: #eb1c24;">.</span></h1>
-                <p>Strategic presence creation through digital mediums enable firms to easily promote their products, monitor customer responses and provides them the opportunity to analyse social media outreach. The Indian Westeros DM team are experts in online reputation management, social media campaigns, social media release, social media strategy and will provide end to end digital PR solutions, whenever needed.
+                                        <h1 class="wow fadeInUp animated">Digital Marketing<span style="color: #eb1c24;">.</span></h1>
+                <p class="wow fadeInDown animated" data-wow-delay="0.2s">Strategic presence creation through digital mediums enable firms to easily promote their products, monitor customer responses and provides them the opportunity to analyse social media outreach. The Indian Westeros DM team are experts in online reputation management, social media campaigns, social media release, social media strategy and will provide end to end digital PR solutions, whenever needed.
 </p>
        
         <br><br>
-                   <a href="#contact">Hire us</a>
+                   <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
                     </div>
                 </div>
             </div>
@@ -228,12 +229,12 @@ Upon client’s approval, this plan becomes the blueprint for the agency's creat
             <div class="col-md-12">
                 <div class="table-t">
                     <div class="table-cell">
-                                        <h1>Media Relations<span style="color: #eb1c24;">.</span></h1>
-                <p>We give your products the right kind of media attention to develop public image and foster goodwill toward the organization.  The role of media is to “tell the story, not to tell your story”, we understand it through our proactive media relations, our paid advertising services can get your product out there at right time and at right spot.
+                                        <h1 class="wow fadeInUp animated">Media Relations<span style="color: #eb1c24;">.</span></h1>
+                <p class="wow fadeInDown animated" data-wow-delay="0.2s">We give your products the right kind of media attention to develop public image and foster goodwill toward the organization.  The role of media is to “tell the story, not to tell your story”, we understand it through our proactive media relations, our paid advertising services can get your product out there at right time and at right spot.
 </p>
        
         <br><br>
-                   <a href="#contact">Hire us</a>
+                   <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
                     </div>
                 </div>
             </div>

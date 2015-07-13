@@ -60,7 +60,7 @@
                 <div class="col-md-4 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
                 
                     <div class="leftSpan"><span><img src="img/sp-icon.png" alt="" class="mark-icon"/></span></div>
-                    <div class="rightSpan"><a href="services.php#">Strategic Planning</a></div>
+                    <div class="rightSpan"><a href="services.php#strategy">Strategic Planning</a></div>
                 
                 
                 </div>

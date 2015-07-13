@@ -46,9 +46,9 @@
            
         <div class="container news-cont">
             <div class="row news-row">
-                <div class="col-md-4 left-news">
+                <div class="col-md-4 left-news wow fadeInLeft animated">
                 </div>
-                <div class="col-md-8 right-news">
+                <div class="col-md-8 right-news wow fadeInRight animated">
                      <h2>Do you want to capitalize your participation at Poultry Show or Just be another exhibiting company?</h2>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
                      <p>When you try to explore opportunities or create leads through an exhibition the major query to be answered is – whether, your company wants to be just an exhibitor or a company which will run a campaign based on the trade show, which none of your competitors or customers could have ever imagined or scouted.</p>

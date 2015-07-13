@@ -356,7 +356,7 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 /*===================News==========================*/
 .news-cont {padding: 50px;}
 .news-row {margin-bottom: 2em;}
-.left-news { height: 350px; background: url(../img/news-bg.jpg) no-repeat 50% 50%; background-size: cover;}
+.left-news { height: 350px; background: url(../img/poultry.jpg) no-repeat 50% 50%; background-size: cover;}
 .right-news { background-color: #f7f7f7; padding: 3em; font-size: 1.1em; color: #4b4b4b; font-family: 'pt_sansregular'; }
 .right-news h2 { color: #000000; }
 .right-news p { text-align: justify;}
@@ -396,9 +396,9 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .service.two {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d;}
 .service.three {background: url(../img/service-bg-3.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
 .service.four {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d; }
-.service.five {background: url(../img/digital-bg.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
+.service.five {background: url(../img/service-bg-5.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
 .service.six {background: #fff; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #1d1d1d; }
-.service.seven {background: url(../img/digital-bg.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
+.service.seven {background: url(../img/service-bg-4.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; background-attachment: fixed; color: #fff; }
 
 #popup {position: fixed; top: 20%; left: 50%; margin-left: -30vw; width: 60vw; height: 60vh; background: #fff; -webkit-box-shadow: 0 0 10px #838383; box-shadow: 0 0 10px #838383; display: none}
 #popup div {height: 100%;}
@@ -407,6 +407,8 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .popupText span {color: #ec1c24; font-size: 1.5em;}
 .service-type li {display: inline; padding: 0 20px; font-size: 1.5em; border-right: 1px dotted #ec1c24}
 .service-type li:last-child {border-right: none}
+#strategyImg {display: -webkit-flex; display: flex; -webkit-align-items: center; align-items: center; -webkit-justify-content: center; justify-content: center;}
+#strategy img {width: 80%;}
 
 /*poulty india new*/
 .poultryAdd {background: url(../img/news1-bg.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; padding: 3em 6EM; color: #fff;}
