@@ -122,8 +122,132 @@
 
     </div> 
 </div>
+      
+      
        
-        <div class="container wrap02">
+           <div class="container-fluid wrap04 text-center">
+               <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> We create effective advertising that extends from<br class="visible-md visible-lg"> sound marketing strategy.<strong style="color: #ec1c24; font-family: serif;">"</strong>
+               
+                  <div class=" container main-cont">
+                   <div class="row text-center">
+                       
+                       <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div id="img01">
+                       <a href="https://youtu.be/yJlzVn8RzaM" data-poptrox="youtube,800x480">
+                        <div class="col-md-12 small-coloumn vd-bg01">
+                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
+                         <div class="content-box text-left">
+                            <h5 class="wow fadeInDown">Gala<span> hi res</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
+                        </div>
+                        </div>
+                        </a>
+                       
+                        
+                    </div>
+                </div>
+                      
+                      
+                       <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                    <div id="img01">
+                       <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
+                        <div class="col-md-12 small-coloumn vd-bg02">
+                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
+                         <div class="content-box text-left">
+                            <h5 class="wow fadeInDown">Uyir <span>short film</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
+                        </div>
+                        </div>
+                        </a>
+                       
+                        
+                    </div>
+                </div>
+                      
+                      
+                                  <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                    <div id="img01">
+                        <a href="img/coloumn-small01.jpg">
+                        <div class="col-md-12 small-coloumn sm-bg01">
+                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
+                         <div class="content-box text-left">
+                            <h5 class="wow fadeInDown">CPHI <span>exhibition</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
+                        </div>
+                        </div>
+                        </a>
+                        </div> 
+                        
+                </div>
+                   </div>
+                   
+                          <div class="row text-center">
+                       
+                      
+                      
+                      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                    <div id="img01">
+                        <a href="img/coloumn-small01.jpg">
+                        <div class="col-md-12 small-coloumn sm-bg01">
+                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
+                         <div class="content-box text-left">
+                            <h5 class="wow fadeInDown">CPHI <span>exhibition</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
+                        </div>
+                        </div>
+                        </a>
+                        </div> 
+                        
+                </div>
+                      
+                      
+                                    <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div id="img01">
+                       <a href="https://youtu.be/yJlzVn8RzaM" data-poptrox="youtube,800x480">
+                        <div class="col-md-12 small-coloumn vd-bg01">
+                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
+                         <div class="content-box text-left">
+                            <h5 class="wow fadeInDown">Gala<span> hi res</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
+                        </div>
+                        </div>
+                        </a>
+                       
+                        
+                    </div>
+                </div>
+                       <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                    <div id="img01">
+                       <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
+                        <div class="col-md-12 small-coloumn vd-bg02">
+                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
+                         <div class="content-box text-left">
+                            <h5 class="wow fadeInDown">Uyir <span>short film</span></h5>
+                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
+                        </div>
+                        </div>
+                        </a>
+                       
+                        
+                    </div>
+                </div>
+                      
+         
+                                  
+                   </div>
+                   
+              
+           
+                   
+               </div>
+          
+           
+           
+           
+           </div>
+        
+       
+        <div class="container-fluid  wrap02">
           <div class="row text-center">
               <div class="col-md-3  col-sm-6 col-xs-6 text-center wow fadeIn" data-wow-delay="0.2s"><img src="img/vccircle.jpg" class="clients img-responsive"/></div>
               <div class="col-md-3 col-sm-6 col-xs-6 text-center wow fadeIn" data-wow-delay="0.4s"><img src="img/yamaha.jpg" class="clients img-responsive"/></div>
@@ -133,49 +257,11 @@
            </div>
            
            
-           <div class="container-fluid wrap03">
-              <div class="row">
-                  <div class="col-md-8 big-coloumn">
-                  <div class="table-t">
-                      <div class="cell text-center big-text wow fadeInDown">Neque porro quisquam est qui <br>dolorem ipsum
-                      <br> <br>
-                      <a href="#" class="btn wow fadeInUp animated" data-wow-delay="0.5s">View Project</a>
-                      </div>
-                      
-                  </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="row" id="img01">
-                        <a href="img/coloumn-small01.jpg">
-                        <div class="col-md-12 small-coloumn sm-bg01">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                          <div class="content-box">
-                            <h5 class="wow fadeInDown">Neque <span>porro</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div>
-                        </a>
-                        </div> 
-                        <div class="row" id="img02">
-                        <a href="img/coloumn-small02.jpg">                        
-                        <div class="col-md-12 small-coloumn sm-bg02">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                          <div class="content-box">
-                           
-                            <h5 class="wow fadeInDown">Neque <span>porro</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div></a>
-                        
-                    </div>
-                </div>
-              </div>
-               
-           </div>
+   
            
            
            <div class="container-fluid wrap04 text-center">
-              <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> In marketing to create an emotional bond is one of the toughest<br> tasks.  And it can be only achieved by understanding the <br>consumer’s day to day journey.<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+              <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> In marketing to create an emotional bond is one of the toughest<br class="visible-md visible-lg"> tasks.  And it can be only achieved by understanding the <br class="visible-md visible-lg">consumer’s day to day journey.<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
                
                   <div class=" container main-cont">
                    <div class="row text-center">
