@@ -8,7 +8,19 @@
     .wrap01 {height: auto;}
 .intro-text {font-size: 30pt;}
 .intro-text span {font-size: 30pt;}
-   
+    .list-wrap {margin: 0 auto; padding: 0;}
+    .list-wrap .col-md-4 {height: 60px; margin-bottom: 0.5em; padding: 0;}
+    .leftSpan {width: 60px;}
+    .rightSpan {width: calc(100% - 60px); height: 100%; }
+    .rightSpan a {font-size: 0.8em; text-indent: 0.7em; }
+    .popupImage {display: none;}
+    .cnt-row {height: auto;}
+    .cnt-left { height: auto;}
+    .cnt-right{ height: auto;}
+    .contact {height: auto;}
+     .about-right {padding: 2em;}
+     .creativeCouncil-wrap { padding: 0; }
+    
     
 }
 
@@ -17,6 +29,20 @@
    .wrap01 {height: auto;}
     .intro-text {font-size: 26pt;}
 .intro-text span {font-size: 26pt;}
+     .list-wrap {margin: 0 auto; padding: 0;}
+    .list-wrap .col-md-4 {height: 60px; margin-bottom: 0.5em; padding: 0;}
+    .leftSpan {width: 60px;}
+    .rightSpan {width: calc(100% - 60px); height: 100%; }
+    .rightSpan a {font-size: 0.8em; text-indent: 0.7em; }
+    .popupImage {display: none;}
+    .cnt-row {height: auto;}
+    .cnt-left { height: auto;}
+    .cnt-right{ height: auto;}
+    .contact {height: auto;}
+     .about-right {padding: 2em;}
+    .creativeCouncil-wrap { padding: 0; }
+    
+    
 
 }
 
@@ -40,9 +66,11 @@
     .zoom-icon {top: 70px;}
     .small-coloumn:before {height: 250px;}
     .wrap04 {padding-left: 2em; padding-right: 2em;}
+    .cnt-row {height: auto;}
+
     .cnt-left { height: auto;}
     .cnt-right{ height: auto;}
-    .contact {height: auto;}641
+    .contact {height: auto;}
     .max-cont {max-width: auto;}
     .main-cont {max-width: auto;}
     .main-wrap {padding: 1em;}
@@ -77,6 +105,7 @@
     .mark-icon {width: 25px;}
     .poultryAdd h1 {font-size: 14pt;}
     .poultryAdd h6 {font-size: 16pt;}
+    .popupImage {display: none;}
 
 }
 
@@ -118,6 +147,7 @@
     .small-news {height: auto;}
     .social-icon {text-align: center; margin-bottom: 30px; padding-left: 0; margin-left: 0;}
     .copy-right {position: relative;}
+    .right-news {height: auto; }
     .right-news p {font-size: 10pt; }
     .right-grid h3 {font-size: 16pt;}
     .right-grid p {font-size: 10pt;}
@@ -135,5 +165,13 @@
     .mark-icon {width: 25px;}
     .poultryAdd h1 {font-size: 14pt;}
     .poultryAdd h6 {font-size: 16pt;}
+  
+    .popupImage {display: none;}
+    .service-wrap {height: auto;}
+    .service-wrap ul{ padding-left: 0; margin-bottom: 20px;}
+    .service.one ul {padding-left: 0;}
+    .service-type {padding-left: 0;}
+    #strategyImg {margin-bottom: 30px;}
+    .strategy-content {margin-bottom: 30px;}
 }
     
