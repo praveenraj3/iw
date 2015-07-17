@@ -12,6 +12,14 @@
        
          <?php include('link.html'); ?>
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <style>
+        @media screen and (min-width: 769px) and (max-width: 991px){
+            .cnt-left {display: none;}
+        }
+        @media screen and (min-width: 641px) and (max-width: 768px){ .cnt-left {display: none;}}
+        @media screen and (min-width: 481px) and (max-width: 640px){ .cnt-left {display: none;}}
+        @media screen and (min-width: 320px) and (max-width: 480px){ .cnt-left {display: none;}}
+        </style>
     </head>
     <body>
    
@@ -50,7 +58,7 @@
                         <li><a href="#advertising" class="smooth">Advertising</a></li>
                         <li><a href="#strategy" class="smooth">Strategic Planning</a></li>
                         <li><a href="#branding" class="smooth">Brand Identity</a></li>
-                        <li><a href="#creative-design" class="smooth">Creative Designing</a></li><br>
+                        <li><a href="#creative-design" class="smooth">Creative Designing</a></li><br class="visible-md visible-lg">
                         <li><a href="#marketing" class="smooth">Experiential Marketing</a></li>
                         <li><a href="#digital" class="smooth">Digital Marketing</a></li>
                         <li><a href="#media" class="smooth">Media Relations</a></li>
@@ -112,7 +120,7 @@
 <div class="container-fluid service two" id="strategy">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 text-left">
+            <div class="col-md-6 text-left strategy-content">
                 <div class="table-t">
                     <div class="table-cell">
                         <h1 class="wow fadeInLeft animated">Strategic Planning<span style="color: #eb1c24;">.</span></h1>
