@@ -94,14 +94,14 @@
             <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br class="visible-md visible-lg"> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
             <div class="container">
                 <div class="row">
-                   <a href="#" class="popup" data-img="per1.jpg" data-text="<span>Venkat Raja</span><br> <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, optio, aliquid! Eum rem non dolor culpa dolorum suscipit magnam velit vitae ea, tenetur, omnis dolore, eius aspernatur, ratione eligendi perspiciatis.">
+                   <a href="#" class="popup" data-img="per1.jpg" data-text="<span>Venkat Raja</span><br> <br>People normally say INFJ’s are old souls with a new heart and that’s true in my case. Being one, I was able to relate it to the art that I love the most - Advertising. Many masters have transformed this art right from print to the current digital age. I am awe struck like you too, but have always found a common thread – us, the people to whom it was created to aspire, connect and correlate.<br><br>I did work at few of the billion dollar companies for more than half a decade, helping them with copy writing and formulating communication strategies. Every time I wrote something, I believed in their products & services and that belief is one of the core values of Indian Westeros.">
                     <div class="col-md-4 team wow fadeIn">
                      
                        <div class="p1">
                         <div class="name-box text-left">
                           <div class="table-t">
                            <div class="cell">
-                            Venkat Raja - <span>Founder</span>
+                            Venkat Raja - <span>Founder/CEO</span>
                             </div>
                             </div>
                         </div>
@@ -141,19 +141,19 @@
                 </div>
 <!--            second row    -->
                 <div class="row">
-                   <a href="#" class="popup" data-img="per4.jpg" data-text="<span>Sruthi Rajan</span><br> <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, optio, aliquid! Eum rem non dolor culpa dolorum suscipit magnam velit vitae ea, tenetur, omnis dolore, eius aspernatur, ratione eligendi perspiciatis.">
+                   <a href="#" class="popup" data-img="per4.jpg" data-text="<span>Sruthi Rajan</span><br> <br>She’s a severely crazy movie aficionado and the one who always chooses the road less travelled. Writing has been her passion since childhood and when a small piece of film roll left her with multiple dazes and questions, film making also joined the club and topped the list. She has worked with some of the exceptional filmmakers from the Malayalam film industry and enjoys movies, writings, trips, photography and books!!">
                     <div class="col-md-4 team wow fadeIn">
                        <div class="p4">
                         <div class="name-box text-left">
                           <div class="table">
                            <div class="cell">
-                            Sruthi Rajan - <span>PR Strategiest</span>
+                            Sruthi Rajan - <span>Sr. Writer</span>
                             </div>
                             </div>
                         </div>
                         </div>
                     </div></a>
-                   <a href="#" class="popup" data-img="per5.jpg" data-text="<span>Hari Krishnan</span><br> <br>His style of film making is niche, techy and extremely thought provoking. He has worked with some of the big ad agencies in the market, before being named as one of the finalist in the television reality show “ Nalaya Iyakkunar”.  Later, he entered into the movie business and took the role of “Associate Director” – where he worked with Mr. Sarvanan & Mr. Nalan Kumaraswamy. He is nowhere to create his own legacy.">
+                   <a href="#" class="popup" data-img="per5.jpg" data-text="<span>Hari Krishnan</span><br> <br>He learned the art of editing from the Grandmaster himself – B. Lenin, who has won 5 National Film Awards. He is a creative visualizer, who foresees and delivers what’s expected out of him through his work. His cuts and fixes will enable us to see something that’s simple as unique and creative.">
                     <div class="col-md-4 team wow fadeIn" data-wow-delay="0.4s">
                         <div class="p5">
                            <div class="name-box text-left">

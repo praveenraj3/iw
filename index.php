@@ -95,156 +95,114 @@
                 
                 
             </div>
-
-<!--            <div class="row list-wrap">
-               <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
-                
-                    <div class="leftSpan"><span class="glyphicon glyphicon-user"></span></div>
-                    <div class="rightSpan"><a href="#">Public Affairs</a></div>
-               
-                
-                </div>
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
-               
-                    <div class="leftSpan"><span class="glyphicon glyphicon-heart"></span></div>
-                    <div class="rightSpan"><a href="#">Public Relations</a></div>
-               
-                
-                </div>
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
-                
-                    <div class="leftSpan"><span class="glyphicon glyphicon-signal"></span></div>
-                    <div class="rightSpan"><a href="#">Trade Marketing</a></div>
-                
-                
-                </div>
-            </div>-->
-
     </div> 
 </div>
       
       
        
-           <div class="container-fluid wrap04 text-center">
-               <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> We create effective advertising that extends from<br class="visible-md visible-lg"> sound marketing strategy.<strong style="color: #ec1c24; font-family: serif;">"</strong>
-               
-                  <div class=" container main-cont">
-                   <div class="row text-center">
-                       
-                       <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
-                    <div id="img01">
-                       <a href="https://youtu.be/yJlzVn8RzaM" data-poptrox="youtube,800x480">
-                        <div class="col-md-12 small-coloumn vd-bg01">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                         <div class="content-box text-left">
-                            <h5 class="wow fadeInDown">Gala<span> hi res</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div>
+<div class="container-fluid wrap04 text-center">
+    <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> We create effective advertising that extends from
+        <br class="visible-md visible-lg">sound marketing strategy.<strong style="color: #ec1c24; font-family: serif;">"</strong>
+
+        <div class=" container main-cont">
+
+            <div class="row text-center">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="img01">
+                        <a href="https://youtu.be/yJlzVn8RzaM" data-poptrox="youtube,800x480">
+                            <div class="col-md-12 small-coloumn gallery1">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Video/Advt.</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
                         </a>
-                       
-                        
                     </div>
                 </div>
-                      
-                      
-                       <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
-                    <div id="img01">
-                       <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
-                        <div class="col-md-12 small-coloumn vd-bg02">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                         <div class="content-box text-left">
-                            <h5 class="wow fadeInDown">Uyir <span>short film</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div>
+
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="img01">
+                        <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
+                            <div class="col-md-12 small-coloumn gallery2">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Video/Advt.</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
                         </a>
-                       
-                        
                     </div>
                 </div>
-                      
-                      
-                                  <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
-                    <div id="img01">
-                        <a href="img/coloumn-small01.jpg">
-                        <div class="col-md-12 small-coloumn sm-bg01">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                         <div class="content-box text-left">
-                            <h5 class="wow fadeInDown">CPHI <span>exhibition</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div>
+
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="img01">
+                        <a href="img/event-1.jpg">
+                            <div class="col-md-12 small-coloumn gallery3">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Events/Stalls</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
                         </a>
-                        </div> 
-                        
-                </div>
-                   </div>
-                   
-                          <div class="row text-center">
-                       
-                      
-                      
-                      <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
-                    <div id="img01">
-                        <a href="img/coloumn-small01.jpg">
-                        <div class="col-md-12 small-coloumn sm-bg01">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                         <div class="content-box text-left">
-                            <h5 class="wow fadeInDown">CPHI <span>exhibition</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div>
-                        </a>
-                        </div> 
-                        
-                </div>
-                      
-                      
-                                    <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
-                    <div id="img01">
-                       <a href="https://youtu.be/yJlzVn8RzaM" data-poptrox="youtube,800x480">
-                        <div class="col-md-12 small-coloumn vd-bg01">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                         <div class="content-box text-left">
-                            <h5 class="wow fadeInDown">Gala<span> hi res</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div>
-                        </a>
-                       
-                        
                     </div>
                 </div>
-                       <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
-                    <div id="img01">
-                       <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
-                        <div class="col-md-12 small-coloumn vd-bg02">
-                         <img src="img/zoom.png" alt="" class="zoom-icon"/>
-                         <div class="content-box text-left">
-                            <h5 class="wow fadeInDown">Uyir <span>short film</span></h5>
-                        <p class="wow fadeInUp">Neque porro quisquam est qui <br>dolorem ipsum</p>
-                        </div>
-                        </div>
+            </div>
+            
+<!--            Gallery second row-->
+            <div class="row text-center">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="img01">
+                        <a href="img/event-2.jpg" >
+                            <div class="col-md-12 small-coloumn gallery4">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Events/Stalls</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
                         </a>
-                       
-                        
                     </div>
                 </div>
-                      
-         
-                                  
-                   </div>
-                   
-              
-           
-                   
-               </div>
-          
-           
-           
-           
-           </div>
+
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="img01">
+                        <a href="img/event-3.jpg">
+                            <div class="col-md-12 small-coloumn gallery5">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Events/Stalls</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="img01">
+                        <a href="img/photography-1.jpg">
+                            <div class="col-md-12 small-coloumn gallery6">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Photography</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+</div>
         
        
         <div class="container-fluid  wrap02">
@@ -261,48 +219,79 @@
            
            
            <div class="container-fluid wrap04 text-center">
-              <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> In marketing to create an emotional bond is one of the toughest<br class="visible-md visible-lg"> tasks.  And it can be only achieved by understanding the <br class="visible-md visible-lg">consumer’s day to day journey.<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+              <span>PEOPLE'S VIEW - WEAK #1</span>
+              <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> How often you buy a product by seeing it's <br> print ad/ TV Commercial and why?<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
                
-                  <div class=" container main-cont">
-                   <div class="row text-center">
-                       <div class="col-md-4 wow fadeIn" data-wow-delay="0.2s">
-                          <div class="twit01 text-left review">
-                              <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                              <hr>
-                              <h4>Venkat Raja</h4>
-                              </div>
-                           </div>
-                       </div>
-                       <div class="col-md-4 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="twit02 text-left review">
-                              <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                              <hr>
-                              <h4>Venkat Raja</h4>
-                              </div>
-                          </div>
-                           
-                       </div>
-                       <div class="col-md-4 wow fadeIn" data-wow-delay="0.6s">
-                            <div class="twit03 text-left review">
-                              <div class="twit-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                              <hr>
-                              <h4>Venkat Raja</h4>
-                              </div>
-                       </div>
-                       </div>
-                   </div>
-                   
-               <div class="row">
-                   <div class="col-md-12 poultryAdd">
-                     <h6>NEWS / EVENTS</h6> <br>
-                      <h1>Do you want to capitalize your participation at Poultry Show or Just be another exhibiting company?</h1> <br><br>
-                      <a href="news.php" class="btn">Read More</a>
-                       
-                   </div>
-               </div>
-           
-                   
-               </div>
+               
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+<div class="container testimonial">
+    <div class="row">
+        <div class="col-md-4 text-center"><img src="img/arun-profile.jpg" alt="Arjun Ashok" class="customer-avatar"></div>
+        <div class="col-md-8 text-left"><span>Arjun Ashok</span><br><br>It depends on the price of the product. If it's a daily use product, I won't think much and will compare with another company's product before using it. For a pricey product, more than advertisement quality, quantity, features, and looks everything matters. Advertisements have got a major role to play to increase the visibility of the product.</div>
+    </div>
+</div>
+    </div>
+    
+    <div class="item">
+<div class="container testimonial">
+    <div class="row">
+        <div class="col-md-4 text-center"><img src="img/ramya-profile.jpg" alt="Ramya" class="customer-avatar"></div>
+        <div class="col-md-8 text-left"><span>Ramya</span><br><br>When I can relate to the product &amp; the situation - I will choose to buy it. Also, if the ad promises better result and looks convincing.</div>
+    </div>
+</div>
+    </div>
+    
+    <div class="item">
+<div class="container testimonial">
+    <div class="row">
+        <div class="col-md-4 text-center"><img src="img/sandhiya-profile.jpg" alt="Sandhiya Nallamar" class="customer-avatar"></div>
+        <div class="col-md-8 text-left"><span>Sandhiya Nallamar</span><br><br>Personally I immediately buy a product if the ad makes it look big. I don’t prefer paper ads because even cheap brands have paper ads. If a product comes on television as a commercial then the brand is strong and at least to try people would buy it once.</div>
+    </div>
+</div>
+    </div>  
+    
+    <div class="item">
+<div class="container testimonial">
+    <div class="row">
+        <div class="col-md-4 text-center"><img src="img/manoj-profile.jpg" alt="Manoj Kumar" class="customer-avatar"></div>
+        <div class="col-md-8 text-left"><span>Manoj Kumar</span><br><br>Once in six months approximately and we buy it because we need it. Or even sometimes, when a TV commercial / print ad often shows these products, we are pushed to try those products at least once.</div>
+    </div>
+</div>
+    </div>  
+    
+    <div class="item">
+<div class="container testimonial">
+    <div class="row">
+        <div class="col-md-4 text-center"><img src="img/ramesh-profile.jpg" alt="Ramesh Kumar" class="customer-avatar"></div>
+        <div class="col-md-8 text-left"><span>Ramesh Kumar</span><br><br>I mostly do a buying decision when the need arises or very attractive price or sometimes it totally depends on the brand.</div>
+    </div>
+</div>
+    </div>                             
+   
+    
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <img src="img/arrow_left.png" alt="Left">
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <img src="img/arrow_right.png" alt="Right">
+    <span class="sr-only">Next</span>
+  </a>
+</div>               
           
            
            
@@ -353,7 +342,7 @@ $('#video').videoBG({
 
        $(function () {
 
-            var foo = $('#img01,#img02');
+            var foo = $('.img01');
             foo.poptrox({
                 usePopupCaption: false
             });

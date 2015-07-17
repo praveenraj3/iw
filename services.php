@@ -47,13 +47,13 @@
             <div class="row">
                 <div class="col-md-12 wow fadeInDown animated" data-wow-delay="0.2s">
                     <ul class="services">
-                        <li><a href="#advertising">Advertising</a></li>
-                        <li><a href="#strategy">Strategic Planning</a></li>
-                        <li><a href="#branding">Brand Identity</a></li>
-                        <li><a href="#creative-design">Creative Designing</a></li><br>
-                        <li><a href="#marketing">Experiential Marketing</a></li>
-                        <li><a href="#digital">Digital Marketing</a></li>
-                        <li><a href="#media">Media Relations</a></li>
+                        <li><a href="#advertising" class="smooth">Advertising</a></li>
+                        <li><a href="#strategy" class="smooth">Strategic Planning</a></li>
+                        <li><a href="#branding" class="smooth">Brand Identity</a></li>
+                        <li><a href="#creative-design" class="smooth">Creative Designing</a></li><br>
+                        <li><a href="#marketing" class="smooth">Experiential Marketing</a></li>
+                        <li><a href="#digital" class="smooth">Digital Marketing</a></li>
+                        <li><a href="#media" class="smooth">Media Relations</a></li>
                     </ul>
                 </div>
             </div>

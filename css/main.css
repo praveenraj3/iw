@@ -143,9 +143,16 @@ html, body {width: 100%; font-family: 'pt_serifregular'; font-size: 1em;}
 
 .small-coloumn { height: 350px; margin-bottom: 30px;}
 
-.sm-bg01 { background: url(../img/coloumn-small01.jpg) no-repeat 50% 50%; background-size: cover; }
-.vd-bg01 { background: url(../img/vid01.jpg) no-repeat 50% 50%; background-size: cover; }
-.vd-bg02 { background: url(../img/vid02.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery1 { background: url(../img/vid01.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery2{ background: url(../img/vid02.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery3{ background: url(../img/event-1.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery4{ background: url(../img/event-2.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery5{ background: url(../img/event-3.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery6{ background: url(../img/photography-1.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery7{ background: url(../img/photography-2.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery8{ background: url(../img/photography-3.jpg) no-repeat 50% 50%; background-size: cover; }
+.gallery9{ background: url(../img/photography-4.jpg) no-repeat 50% 50%; background-size: cover; }
+
 
 .sm-bg02 { background: url(../img/coloumn-small02.jpg) no-repeat 50% 50%; background-size: cover; }
 
@@ -155,25 +162,17 @@ transition: all 0.3s ease;}
 
 .small-coloumn:hover:before {background-color: rgba(0,0,0,0.8);}
 
-.small-coloumn:hover .content-box {opacity: 0;-webkit-transition: all 0.3s ease;
--o-transition: all 0.3s ease;
-transition: all 0.3s ease;}
+.small-coloumn:hover .content-box {opacity: 0; -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
 .small-coloumn:hover .zoom-icon {opacity: 1;}
 
-
-.content-box {position: absolute; bottom: 0;z-index: 1; padding: 20px; font-family: 'pt_sansregular';/* width: 100%;*/-webkit-transition: all 0.3s ease;
--o-transition: all 0.3s ease;
-transition: all 0.3s ease;}
+.content-box {position: absolute; bottom: 0;z-index: 1; padding: 0px; font-family: 'pt_sansregular';/* width: 100%;*/-webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; font-weight: 300;}
 
 h5 {font-size: 1.4em; color: #ffffff;}
 .content-box h5 span {font-size: 1.2em; color: #ec1c24;}
 .content-box p {color: #ffffff; font-family: 'pt_sansregular'; font-size: 14pt;}
 .big-text { font-family: 'pt_serifregular'; color: #ffffff; font-size: 2em; z-index: 2; line-height: 1;}
 
-.zoom-icon {opacity: 0; margin-left: auto; margin-right: auto; left: 0; right: 0; position: absolute; top: 150px;-webkit-transition: all 0.3s ease;
--o-transition: all 0.3s ease;
-transition: all 0.3s ease;}
-
+.zoom-icon {opacity: 0; margin-left: auto; margin-right: auto; left: 0; right: 0; position: absolute; top: 150px; -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
 
 button {font-size: 12pt;}
 
@@ -198,8 +197,6 @@ hr {width: 70px; margin-top: 5px; margin-bottom: 5px; border-top: 1px solid #29a
 .add {margin-top: 4em;}
 
 .left-grid {background: url(../img/model.jpg) 50% 50% no-repeat ; background-size: cover; height: 200px;}
-
-
 
 .right-grid {background-color: #ec1c24; height: 200px; padding-top: 1em;}
 
@@ -226,9 +223,7 @@ hr {width: 70px; margin-top: 5px; margin-bottom: 5px; border-top: 1px solid #29a
 .cnt-right .form-control {border-radius: 0; background-color: transparent; box-shadow: none; border: 1px solid #999999; position: relative;  font-family: 'pt_sansregular'; } 
 
 .cnt-right button {margin-top: 20px; background-color: #666666; border: 1px solid #666666; padding: 10px 40px;}
-.cnt-right button:hover {color: #666666; -webkit-transition: all 0.3s ease;
- -o-transition: all 0.3s ease;
- transition:  all 0.3s ease;}
+.cnt-right button:hover {color: #666666; -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition:  all 0.3s ease;}
 
 
 .message {height: 100px;}
@@ -401,7 +396,7 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 #popup {position: fixed; top: 20%; left: 50%; margin-left: -30vw; width: 60vw; height: 60vh; background: #fff; -webkit-box-shadow: 0 0 10px #838383; box-shadow: 0 0 10px #838383; display: none}
 #popup div {height: 100%;}
 .popupImage {height: 100%; background-repeat: no-repeat; -webkit-background-size: cover; background-size: cover; background-position: 50% 50%;}
-.popupText {color: #989898; font-family: 'pt_sansregular', sans-serif; font-size: 1.1em; padding-top: 2em;}
+.popupText {color: #989898; font-family: 'pt_sansregular', sans-serif; font-size: 1em; padding-top: 2em;}
 .popupText span {color: #ec1c24; font-size: 1.5em;}
 .service-type li {display: inline; padding: 0 20px; font-size: 1.5em; border-right: 1px dotted #ec1c24}
 .service-type li:last-child {border-right: none}
@@ -410,3 +405,11 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 
 /*poulty india new*/
 .poultryAdd {background: url(../img/news1-bg.jpg) center center no-repeat; -webkit-background-size: cover; background-size: cover; padding: 3em 6EM; color: #fff;}
+
+/*Testimonial*/
+.wrap04 {padding-bottom: 10%;}
+.wrap04 span {color: #ec1c24; font-size: 1.3em;}
+.testimonial {max-width: 80%; font-family: 'pt_sansregular', sans-serif; font-size: 1.1em;}
+.testimonial span {color: #ec1c24; font-size: 1.3em;}
+.customer-avatar {width: 200px;}
+.carousel-control.left, .carousel-control.right {background-image: none; display: -webkit-flex; -webkit-align-items: center; -webkit-justify-content: center;}
