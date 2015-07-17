@@ -185,6 +185,41 @@
                         </a>
                     </div>
                 </div>
+            </div> 
+            
+            <!--            Gallery third row-->
+            <div class="row text-center">
+                
+
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="img01">
+                        <a href="img/event-4.jpg">
+                            <div class="col-md-12 small-coloumn gallery10">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Events/Stalls</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="img01">
+                        <a href="img/Photography-7.jpg">
+                            <div class="col-md-12 small-coloumn gallery11">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Photography</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>            
 
         </div>

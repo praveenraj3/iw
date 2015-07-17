@@ -166,7 +166,7 @@
                         </div>
                     </div>
                     </a>
-                    <a href="#" class="popup" data-img="per6.jpg" data-text="<span>Kannan Ponnaiya</span><br> <br>His aspirations are sky high, which equally meets his flair in the field of OOH Advertising. He played a key role in promoting one of the India’s ministry of commerce sponsored NPO to reach greater heights through his commendable works. He is here, to help us explore all the advertisement mediums outside the home.">
+                    <a href="#" class="popup" data-img="per6.jpg" data-text="<span>Kannan Ponnaiya</span><br> <br>He is a notable actor, but that’s not it; He is one of Mr. Gautam Menon’s former associate director. He is jovial, introspective and an excellent script writer. He worked along with Mr. Menon, starting from the Tamil Movie – Minnale till Vettaiyadu Villayadu. Later, he joined with Mr. Krishna his former colleague and gave two successful movies sillunu oru Kadhal and Nedunchalai.<br>He is an avid follower of television commercials. And has worked with various ad agencies and guided them with his insights on running a campaign, media planning, production and direction. He is here to guide us in his expertise. ">
                     <div class="col-md-4 team wow fadeIn" data-wow-delay="0.8s">
                         <div class="p6">
                              <div class="name-box text-left">

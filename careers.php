@@ -48,38 +48,28 @@
                 <div class="col-md-4 left-news">
                 </div>
                 <div class="col-md-8 right-news">
-                     <h2>Vaccancies</h2>
+                     <h2>Client Service - Executive</h2>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                     <p>Do you speak what’s on your mind?<br>
+                        Do you make an effort to understand the views of others?<br>
+                        Are you honest with yourself, clients, suppliers and the company?<br>
+                        If so, Please go ahead and apply.<br>
+                        If not, there is always the next one mate….
+                        </p>
                 </div>
             </div>
             <div class="row news-row">
                 <div class="col-md-8 right-news">
-                                  <h2>Vaccancies</h2>
+                                  <h2>Graphic Designer – Intern</h2>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                     <p>It’s not just a blank paper, but a space in which you have the opportunity to unveil your creativity. We need someone who will ideate theories, logical and extremely ingenious in creative designing to join our team.</p>
                 </div>
                 <div class="col-md-4 left-news">
    
                 </div>
             </div>
             
-             <div class="row news-row">
-                <div class="col-md-4 left-news">
-                </div>
-                <div class="col-md-8 right-news">
-                     <h2>Vaccancies</h2>
-                     <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-                </div>
-            </div>
-           
+            
           
         </div>
           
@@ -89,8 +79,8 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mi
                    <div class="col-md-9 right-grid text-left">
                      
                        <h3>We’re Hiring!!!</h3>
-                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                       <h4>careers@indianwesteros.com</h4>
+                       <p>We are looking for exceptionally talented models, both in female and male category. Interested one’s forward your portfolio to <strong>careers@indianwesteros.com</strong>, Good Day!! </p>
+                       
                        
                    </div>
                </div></div>
