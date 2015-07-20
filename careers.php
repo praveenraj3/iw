@@ -45,7 +45,7 @@
            
         <div class="container news-cont">
             <div class="row news-row">
-                <div class="col-md-4 left-news">
+                <div class="col-md-4 left-news01">
                 </div>
                 <div class="col-md-8 right-news">
                      <h2>Client Service - Executive</h2>
@@ -55,16 +55,19 @@
                         Are you honest with yourself, clients, suppliers and the company?<br>
                         If so, Please go ahead and apply.<br>
                         If not, there is always the next one mate….
-                        </p>
+                        </p><br>
+                         <a href="mailto:careers@indianwesteros.com" target="_top" class="wow fadeInLeft animated" data-wow-delay="0.2s">Apply</a>
                 </div>
             </div>
             <div class="row news-row">
                 <div class="col-md-8 right-news">
                                   <h2>Graphic Designer – Intern</h2>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>It’s not just a blank paper, but a space in which you have the opportunity to unveil your creativity. We need someone who will ideate theories, logical and extremely ingenious in creative designing to join our team.</p>
+                     <p>It’s not just a blank paper, but a space in which you have the opportunity to unveil your creativity. We need someone who will ideate theories, logical and extremely ingenious in creative designing to join our team.</p><br>
+                           <a href="mailto:careers@indianwesteros.com" target="_top" class="wow fadeInLeft animated" data-wow-delay="0.2s">Apply</a>
                 </div>
-                <div class="col-md-4 left-news">
+           
+                <div class="col-md-4 left-news02">
    
                 </div>
             </div>

@@ -352,7 +352,10 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .news-cont {padding: 50px;}
 .news-row {margin-bottom: 2em;}
 .left-news { height: 350px; background: url(../img/poultry.jpg) no-repeat 50% 50%; background-size: cover;}
-.right-news { background-color: #f7f7f7; padding: 3em; font-size: 1.1em; color: #4b4b4b; font-family: 'pt_sansregular'; }
+.left-news01 { height: 350px; background: url(../img/client-service.jpg) no-repeat 50% 50%; background-size: cover;}
+.left-news02 { height: 350px; background: url(../img/graphic-designer.jpg) no-repeat 50% 50%; background-size: cover;}
+.right-news { background-color: #f7f7f7; padding: 3em; font-size: 1.1em; color: #4b4b4b; font-family: 'pt_sansregular'; min-height: 350px; }
+.right-news01 { background-color: #f7f7f7; padding: 3em; font-size: 1.1em; color: #4b4b4b; font-family: 'pt_sansregular'; min-height: 350px; }
 .right-news h2 { color: #000000; }
 .right-news p { text-align: justify;}
 .small-news {height: 600px; margin-top: 2em; margin-bottom: 4em;}
@@ -377,6 +380,9 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .news-list {margin: 2em auto; }
 .news-list li {color: #ec1c24; font-size: 1.3em; /*font-weight: bold;*/}
 .news-list span {color: #393939; }
+
+.right-news a {background: #ec1c24; color: #fff; text-decoration: none; font-size: 1.2em; padding: 0.4em 1.25em; font-family: 'pt_sansregular', sans-serif;}
+.right-news a:hover {background: #fff; color: #ec1c24; border: 1px solid #ec1c24}
 
 /*service page*/
 .service-wrap {padding: 0; height: 100%;}
