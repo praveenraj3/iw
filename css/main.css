@@ -367,7 +367,7 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 
 .add-main {max-width: 1100px; margin-bottom: 6em;}
 
-.clients {width:250px; display: inline;  -webkit-filter: grayscale(100%);
+.clients {width:250px; display: inline;  margin-bottom: 50px; -webkit-filter: grayscale(100%);
 -moz-filter: grayscale(100%); -ms-filter: grayscale(100%);
     -o-filter: grayscale(100%); filter: grayscale(100%);}
 

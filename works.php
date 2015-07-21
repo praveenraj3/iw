@@ -45,7 +45,7 @@
         <div class=" container main-cont">
 
             <div class="row text-center">
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="col-md-4 col-sm-6 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="img01">
                         <a href="https://youtu.be/yJlzVn8RzaM" data-poptrox="youtube,800x480">
                             <div class="col-md-12 small-coloumn gallery1">
@@ -60,7 +60,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
                         <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
                             <div class="col-md-12 small-coloumn gallery2">
@@ -75,7 +75,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
                     <div class="img01">
                         <a href="img/event-1.jpg">
                             <div class="col-md-12 small-coloumn gallery3">
@@ -89,11 +89,9 @@
                         </a>
                     </div>
                 </div>
-            </div>
-            
-<!--            Gallery second row-->
+           
             <div class="row text-center">
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="img01">
                         <a href="img/event-2.jpg" >
                             <div class="col-md-12 small-coloumn gallery4">
@@ -108,7 +106,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
                         <a href="img/event-3.jpg">
                             <div class="col-md-12 small-coloumn gallery5">
@@ -123,7 +121,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
                     <div class="img01">
                         <a href="img/photography-1.jpg">
                             <div class="col-md-12 small-coloumn gallery6">
@@ -137,11 +135,8 @@
                         </a>
                     </div>
                 </div>
-            </div>
             
-<!--            Gallery third row-->
-            <div class="row text-center">
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="img01">
                         <a href="img/photography-2.jpg" >
                             <div class="col-md-12 small-coloumn gallery7">
@@ -156,7 +151,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
                         <a href="img/photography-3.jpg">
                             <div class="col-md-12 small-coloumn gallery8">
@@ -171,7 +166,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
                     <div class="img01">
                         <a href="img/photography-4.jpg">
                             <div class="col-md-12 small-coloumn gallery9">
@@ -185,13 +180,10 @@
                         </a>
                     </div>
                 </div>
-            </div> 
-            
-            <!--            Gallery third row-->
-            <div class="row text-center">
+          
                 
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="img01">
                         <a href="img/event-4.jpg">
                             <div class="col-md-12 small-coloumn gallery10">
@@ -206,7 +198,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
                         <a href="img/Photography-7.jpg">
                             <div class="col-md-12 small-coloumn gallery11">
@@ -225,7 +217,7 @@
         </div>
 </div>       
     
-            
+        </div>        
              
 <?php include('footer.html'); ?>
    

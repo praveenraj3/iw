@@ -95,7 +95,7 @@
             <div class="container">
                 <div class="row">
                    <a href="#" class="popup" data-img="per1.jpg" data-text="<span>Venkat Raja</span><br> <br>People normally say INFJ’s are old souls with a new heart and that’s true in my case. Being one, I was able to relate it to the art that I love the most - Advertising. Many masters have transformed this art right from print to the current digital age. I am awe struck like you too, but have always found a common thread – us, the people to whom it was created to aspire, connect and correlate.<br><br>I did work at few of the billion dollar companies for more than half a decade, helping them with copy writing and formulating communication strategies. Every time I wrote something, I believed in their products & services and that belief is one of the core values of Indian Westeros.">
-                    <div class="col-md-4 team wow fadeIn">
+                    <div class="col-md-4 col-sm-6 team wow fadeIn">
                      
                        <div class="p1">
                         <div class="name-box text-left">
@@ -110,7 +110,7 @@
                     
                    <a href="#" class="popup" data-img="per2.jpg" data-text="<span>Rakesh NS</span><br> <br>His style of film making is niche, techy and extremely thought provoking. He has worked with some of the big ad agencies in the market, before being named as one of the finalist in the television reality show “ Nalaya Iyakkunar”.  Later, he entered into the movie business and took the role of “Associate Director” – where he worked with Mr. Sarvanan & Mr. Nalan Kumaraswamy. He is nowhere to create his own legacy.">
 
-                    <div class="col-md-4 team wow fadeIn" data-wow-delay="0.4s">
+                    <div class="col-md-4 col-sm-6 team wow fadeIn" data-wow-delay="0.4s">
                         
                         <div class="p2">
                            <div class="name-box text-left">
@@ -126,7 +126,7 @@
                     </a>
                     
                     <a href="#" class="popup" data-img="per3.jpg" data-text="<span>Dipesh Thakkar</span><br> <br>His aspirations are sky high, which equally meets his flair in the field of OOH Advertising. He played a key role in promoting one of the India’s ministry of commerce sponsored NPO to reach greater heights through his commendable works. He is here, to help us explore all the advertisement mediums outside the home.">
-                    <div class="col-md-4 team wow fadeIn" data-wow-delay="0.8s">
+                    <div class="col-md-4 col-sm-6 team wow fadeIn" data-wow-delay="0.8s">
 
                         <div class="p3">
                              <div class="name-box text-left">
@@ -138,11 +138,9 @@
                         </div>
                         </div>
                         </div></a>
-                </div>
-<!--            second row    -->
-                <div class="row">
+                
                    <a href="#" class="popup" data-img="per4.jpg" data-text="<span>Sruthi Rajan</span><br> <br>She’s a severely crazy movie aficionado and the one who always chooses the road less travelled. Writing has been her passion since childhood and when a small piece of film roll left her with multiple dazes and questions, film making also joined the club and topped the list. She has worked with some of the exceptional filmmakers from the Malayalam film industry and enjoys movies, writings, trips, photography and books!!">
-                    <div class="col-md-4 team wow fadeIn">
+                    <div class="col-md-4 col-sm-6 team wow fadeIn">
                        <div class="p4">
                         <div class="name-box text-left">
                           <div class="table">
@@ -154,7 +152,7 @@
                         </div>
                     </div></a>
                    <a href="#" class="popup" data-img="per5.jpg" data-text="<span>Hari Krishnan</span><br> <br>He learned the art of editing from the Grandmaster himself – B. Lenin, who has won 5 National Film Awards. He is a creative visualizer, who foresees and delivers what’s expected out of him through his work. His cuts and fixes will enable us to see something that’s simple as unique and creative.">
-                    <div class="col-md-4 team wow fadeIn" data-wow-delay="0.4s">
+                    <div class="col-md-4 col-sm-6 team wow fadeIn" data-wow-delay="0.4s">
                         <div class="p5">
                            <div class="name-box text-left">
                           <div class="table">
@@ -167,7 +165,7 @@
                     </div>
                     </a>
                     <a href="#" class="popup" data-img="per6.jpg" data-text="<span>Kannan Ponnaiya</span><br> <br>He is a notable actor, but that’s not it; He is one of Mr. Gautam Menon’s former associate director. He is jovial, introspective and an excellent script writer. He worked along with Mr. Menon, starting from the Tamil Movie – Minnale till Vettaiyadu Villayadu. Later, he joined with Mr. Krishna his former colleague and gave two successful movies sillunu oru Kadhal and Nedunchalai.<br>He is an avid follower of television commercials. And has worked with various ad agencies and guided them with his insights on running a campaign, media planning, production and direction. He is here to guide us in his expertise. ">
-                    <div class="col-md-4 team wow fadeIn" data-wow-delay="0.8s">
+                    <div class="col-md-4 col-sm-6 team wow fadeIn" data-wow-delay="0.8s">
                         <div class="p6">
                              <div class="name-box text-left">
                           <div class="table">
