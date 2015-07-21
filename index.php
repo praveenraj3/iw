@@ -107,85 +107,11 @@
         <div class=" container main-cont">
 
             <div class="row text-center">
-                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="img01">
-                        <a href="https://youtu.be/yJlzVn8RzaM" data-poptrox="youtube,800x480">
-                            <div class="col-md-12 small-coloumn gallery1">
-                                <img src="img/zoom.png" alt="" class="zoom-icon" />
-                                <div class="content-box text-left">
-                                    <h5 class="wow fadeInDown">Video/Advt.</h5>
-<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
-                                        <br>dolorem ipsum</p>-->
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-4  col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="img01">
-                        <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
-                            <div class="col-md-12 small-coloumn gallery2">
-                                <img src="img/zoom.png" alt="" class="zoom-icon" />
-                                <div class="content-box text-left">
-                                    <h5 class="wow fadeInDown">Video/Advt.</h5>
-<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
-                                        <br>dolorem ipsum</p>-->
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="img01">
-                        <a href="img/event-1.jpg">
-                            <div class="col-md-12 small-coloumn gallery3">
-                                <img src="img/zoom.png" alt="" class="zoom-icon" />
-                                <div class="content-box text-left">
-                                    <h5 class="wow fadeInDown">Events/Stalls</h5>
-<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
-                                        <br>dolorem ipsum</p>-->
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-           
-                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="img01">
-                        <a href="img/event-2.jpg" >
-                            <div class="col-md-12 small-coloumn gallery4">
-                                <img src="img/zoom.png" alt="" class="zoom-icon" />
-                                <div class="content-box text-left">
-                                    <h5 class="wow fadeInDown">Events/Stalls</h5>
-<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
-                                        <br>dolorem ipsum</p>-->
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
+              
                 <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
-                        <a href="img/event-3.jpg">
-                            <div class="col-md-12 small-coloumn gallery5">
-                                <img src="img/zoom.png" alt="" class="zoom-icon" />
-                                <div class="content-box text-left">
-                                    <h5 class="wow fadeInDown">Events/Stalls</h5>
-<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
-                                        <br>dolorem ipsum</p>-->
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="img01">
-                        <a href="img/photography-1.jpg">
-                            <div class="col-md-12 small-coloumn gallery6">
+                        <a href="img/Photography-7.jpg">
+                            <div class="col-md-12 small-coloumn gallery11">
                                 <img src="img/zoom.png" alt="" class="zoom-icon" />
                                 <div class="content-box text-left">
                                     <h5 class="wow fadeInDown">Photography</h5>
@@ -196,6 +122,82 @@
                         </a>
                     </div>
                 </div>
+                
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="img01">
+                        <a href="img/photography-3.jpg">
+                            <div class="col-md-12 small-coloumn gallery8">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Photography</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="img01">
+                        <a href="img/photography-4.jpg">
+                            <div class="col-md-12 small-coloumn gallery9">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Photography</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>                                                                                                        
+               
+                <div class="col-md-4  col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="img01">
+                        <a href="https://youtu.be/IM2rI47_0QY" data-poptrox="youtube,800x480">
+                            <div class="col-md-12 small-coloumn gallery2">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Uyir Short Film</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="img01">
+                        <a href="img/event-1.jpg">
+                            <div class="col-md-12 small-coloumn gallery3">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Exhibit Design</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="img01">
+                        <a href="img/event-3.jpg">
+                            <div class="col-md-12 small-coloumn gallery5">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Nissan Motor Show</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>                                                
+
             </div>
 
         </div>
@@ -216,7 +218,7 @@
            
            
            <div class="container-fluid wrap04 text-center">
-              <span>PEOPLE'S VIEW - WEAK #1</span>
+              <span>PEOPLE'S VIEW - WEEK #1</span>
               <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong> How often you buy a product by seeing it's <br> print ad/ TV Commercial and why?<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
                
                

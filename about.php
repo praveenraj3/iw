@@ -91,7 +91,7 @@
            </div></div>
             
             <div class="container-fluid creativeCouncil-wrap text-center">
-            <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our Creative Council team gives us ideas from an eagle’s nest and their works<br class="visible-md visible-lg"> are as amazing as they’re<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
+            <p class="quote wow fadeInLeft"><strong style="color: #ec1c24; font-family: serif;">"</strong>Our creative council team is the ones who knows the way,<br class="visible-md visible-lg">  goes the way and shows the way<strong style="color: #ec1c24; font-family: serif;">"</strong></p>
             <div class="container">
                 <div class="row">
                    <a href="#" class="popup" data-img="per1.jpg" data-text="<span>Venkat Raja</span><br> <br>People normally say INFJ’s are old souls with a new heart and that’s true in my case. Being one, I was able to relate it to the art that I love the most - Advertising. Many masters have transformed this art right from print to the current digital age. I am awe struck like you too, but have always found a common thread – us, the people to whom it was created to aspire, connect and correlate.<br><br>I did work at few of the billion dollar companies for more than half a decade, helping them with copy writing and formulating communication strategies. Every time I wrote something, I believed in their products & services and that belief is one of the core values of Indian Westeros.">
