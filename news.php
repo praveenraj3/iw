@@ -53,7 +53,7 @@
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
                      <p>When you try to explore opportunities or create leads through an exhibition the major query to be answered is – whether, your company wants to be just an exhibitor or a company which will run a campaign based on the trade show, which none of your competitors or customers could have ever imagined or scouted.</p>
                      <p>
-                         We at Indian Westeros, are experts in running advertisement campaigns. A recent research by green book suggests that, to be successful at a trade show the companies need to promote or advertise their products in every medium that the targeted audience can come across before, during and after the show. 
+                         We at Indian Westeros, are experts in running advertisement campaigns. A recent research by Green Book suggests that, to be successful at a trade show the companies need to promote or advertise their products in every medium that the targeted audience can come across before, during and after the show. 
                      </p>
                      <ul class="news-list">
                          <li><span>This method will ensure 80% of the visitors to visit your stall during the show </span></li>
@@ -109,7 +109,7 @@ dolore magna aliqua. Ut enim ad minim veniam,Lorem ipsum dolor sit amet, consect
                    <div class="col-md-9 right-grid text-left">
                      
                        <h3>We’re Hiring!!!</h3>
-                       <p>We are looking for exceptionally talented models, both in female and male category. Interested one’s forward your portfolio to <strong>careers@indianwesteros.com</strong>, Good Day!! </p>
+                       <p>We are looking for exceptionally talented models, both in female and male category. Interested one’s forward your portfolio to <strong>careers@indianwesteros.com</strong></p>
                        
                        
                    </div>

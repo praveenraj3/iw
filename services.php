@@ -161,9 +161,7 @@ Upon client’s approval, this plan becomes the blueprint for the agency's creat
                         <h1 class="wow fadeInLeft animated">Strategic Planning<span style="color: #eb1c24;">.</span></h1>
                         <p class="wow fadeInRight animated">
                         Strategic Planning is a never-ending process at Indian Westeros. We define and redefine goals and objectives, develop strategies and evaluate advertising results. This process begins before research and continues even after the advertisement is run. 
-While creating an ad, we consider the research results; evaluate the media plans and work in sync with client's team to provide detailed marketing &amp; advertising plan
-
-Upon client’s approval, this plan becomes the blueprint for the agency's creative and media program.
+While creating an ad, we consider the research results; evaluate the media plans and work in sync with client's team to provide detailed marketing &amp; advertising plan. Upon client’s approval, this plan becomes the blueprint for the agency's creative and media program.
                         </p>
                         <br>
                         <br>

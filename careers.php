@@ -82,7 +82,7 @@
                    <div class="col-md-9 right-grid text-left">
                      
                        <h3>We’re Hiring!!!</h3>
-                       <p>We are looking for exceptionally talented models, both in female and male category. Interested one’s forward your portfolio to <strong>careers@indianwesteros.com</strong>, Good Day!! </p>
+                       <p>We are looking for exceptionally talented models, both in female and male category. Interested one’s forward your portfolio to <strong>careers@indianwesteros.com</strong></p>
                        
                        
                    </div>
