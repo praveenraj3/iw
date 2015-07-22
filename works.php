@@ -48,7 +48,7 @@
                
                 <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
-                        <a href="img/Photography-7.jpg">
+                        <a href="img/photography-7.jpg">
                             <div class="col-md-12 small-coloumn gallery11">
                                 <img src="img/zoom.png" alt="" class="zoom-icon" />
                                 <div class="content-box text-left">
@@ -105,6 +105,21 @@
                         </a>
                     </div>
                 </div>
+                
+                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="img01">
+                        <a href="img/event-2.jpg" >
+                            <div class="col-md-12 small-coloumn gallery4">
+                                <img src="img/zoom.png" alt="" class="zoom-icon" />
+                                <div class="content-box text-left">
+                                    <h5 class="wow fadeInDown">Photography</h5>
+<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
+                                        <br>dolorem ipsum</p>-->
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>                
 
                 <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
@@ -166,20 +181,6 @@
                     </div>
                 </div>                
            
-                <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="img01">
-                        <a href="img/event-2.jpg" >
-                            <div class="col-md-12 small-coloumn gallery4">
-                                <img src="img/zoom.png" alt="" class="zoom-icon" />
-                                <div class="content-box text-left">
-                                    <h5 class="wow fadeInDown">Exhibit Design</h5>
-<!--                                    <p class="wow fadeInUp">Neque porro quisquam est qui
-                                        <br>dolorem ipsum</p>-->
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
 
                 <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="img01">
