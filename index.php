@@ -36,8 +36,10 @@
                 <div class="intro-text">WE ARE HERE TO
                     <br class="hidden-xs hidden-sm"><span>CREATE &amp; TRANSFORM BRANDS</span>
                     <br class="hidden-xs hidden-sm">THAT LASTS FOREVER </div>
+                   
             </div>
         </div>
+         <img src="img/scroll.png" alt="" class="scroll"/>
     </div>
 </div>
         
