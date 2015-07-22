@@ -121,24 +121,19 @@
 <div class="container-fluid service two" id="strategy">
     <div class="container">
         <div class="row">
-            <div class="col-md-12  strategy-content"  style="margin-top: 0.7em;">
+            <div class="col-md-12  strategy-content">
                 <div class="table-t">
                     <div class="table-cell">
                         <h1 class="wow fadeInUp animated">Strategic Planning<span style="color: #eb1c24;">.</span></h1>
                         <div class="col-md-6 text-left">
-                        <div class="table-t">
-                    <div class="table-cell">
                        <p class="wow fadeInRight animated">
                         Strategic Planning is a never-ending process at Indian Westeros. We define and redefine goals and objectives, develop strategies and evaluate advertising results. This process begins before research and continues even after the advertisement is run. 
-While creating an ad, we consider the research results; evaluate the media plans and work in sync with client's team to provide detailed marketing &amp; advertising plan
-
-Upon client’s approval, this plan becomes the blueprint for the agency's creative and media program.
+While creating an ad, we consider the research results; evaluate the media plans and work in sync with client's team to provide detailed marketing &amp; advertising plan. Upon client’s approval, this plan becomes the blueprint for the agency's creative and media program.
                         </p>
                         <br>
                         <br>
                         <a href="#contact" class="wow fadeInLeft animated" data-wow-delay="0.2s">Hire us</a>
-                            </div>
-                            </div>
+ 
                         </div>
                         <div class="col-md-6 wow fadeInRight animated" data-delay-wow="0.4s" id="strategyImg">
                 <img src="img/strategy.jpg" alt="Strategy Planning" title="Strategy Planning">
