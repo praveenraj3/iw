@@ -63,6 +63,39 @@ $(document).ready(function() {
 
 $(function() { $('.smooth').click(function() { if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) { var target = $(this.hash); target = target.length ? target : $('[name=' + this.hash.slice(1) +']'); if (target.length) { $('html,body').animate({ scrollTop: target.offset().top }, 1000); return false; } } }); });
     
+            
+    //Contacat Ajax
+    $("#frmContact").on('submit',(function(e){
+                e.preventDefault();
+                //$('#loader-icon').show();
+                var valid = true;	
+                // valid = validateContact();
+                if(valid) {
+                    $('#contactSubmit').html('Sending...');
+                    $.ajax({
+                        url: "sendmessage.php",
+                        type: "POST",
+                        data:  new FormData(this),
+                        contentType: false,
+                        cache: false,
+                        processData:false,
+                        success: function(data){
+                          console.log(data);
+                          $('#contactSubmit').html('We Got It!!');
+                          setTimeout (function () {
+                            $('#frmContact')[0].reset();
+                            $('#contactSubmit').html('SEND');
+                          }, 2000);
+                        },
+                        error: function(){
+                            console.log('error')
+                        } 	        
+
+                    });
+                }
+            }));
+
+
 });
 
 
