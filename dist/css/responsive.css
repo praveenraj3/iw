@@ -1,0 +1,178 @@
+@media screen and (min-width: 992px) and (max-width: 1200px){
+      .wrap01 {height: auto;}
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 991px){
+    
+    body {font-size: 1em;}
+    .wrap01 {height: auto;}
+.intro-text {font-size: 30pt;}
+.intro-text span {font-size: 30pt;}
+    .list-wrap {margin: 0 auto; padding: 0;}
+    .list-wrap .col-md-4 {height: 60px; margin-bottom: 0.5em; padding: 0;}
+    .leftSpan {width: 60px;}
+    .rightSpan {width: calc(100% - 60px); height: 100%; }
+    .rightSpan a {font-size: 0.8em; text-indent: 0.7em; }
+    .popupImage {display: none;}
+    .cnt-row {height: auto;}
+    .cnt-left { height: auto;}
+    .cnt-right{ height: auto;}
+    .contact {height: auto;}
+     .about-right {padding: 2em;}
+     .creativeCouncil-wrap { padding: 0; }
+    
+    
+}
+
+@media screen and (min-width: 641px) and (max-width: 768px){
+     body {font-size: 0.8em;}
+   .wrap01 {height: auto;}
+    .intro-text {font-size: 26pt;}
+.intro-text span {font-size: 26pt;}
+     .list-wrap {margin: 0 auto; padding: 0;}
+    .list-wrap .col-md-4 {height: 60px; margin-bottom: 0.5em; padding: 0;}
+    .leftSpan {width: 60px;}
+    .rightSpan {width: calc(100% - 60px); height: 100%; }
+    .rightSpan a {font-size: 0.8em; text-indent: 0.7em; }
+    .popupImage {display: none;}
+    .cnt-row {height: auto;}
+    .cnt-left { height: auto;}
+    .cnt-right{ height: auto;}
+    .contact {height: auto;}
+     .about-right {padding: 2em;}
+    .creativeCouncil-wrap { padding: 0; }
+    
+    
+
+}
+
+
+    
+@media screen and (min-width: 481px) and (max-width: 640px){
+ body {font-size: 0.6em;}
+     .wrap01 {height: auto; padding-left: 1em; padding-right: 1em;}
+    .list-wrap {margin: 0 auto; padding: 0;}
+    .list-wrap .col-md-4 {height: 35px; margin-bottom: 0.5em; padding: 0;}
+    .leftSpan {width: 35px;}
+    .rightSpan {width: calc(100% - 35px); height: 100%; }
+    .rightSpan a {font-size: 0.8em; text-indent: 0.7em; }
+    .big-coloumn {height: 400px;}
+    .sm-bg01 { height: 250px;}
+    .sm-bg02 { height: 250px;}
+    .small-coloumn { height: 250px;}
+    .wrap03 {height: auto;}
+     .intro-text {font-size: 22pt;}
+.intro-text span {font-size: 22pt;}
+    .zoom-icon {top: 70px;}
+    .small-coloumn:before {height: 250px;}
+    .wrap04 {padding-left: 2em; padding-right: 2em;}
+    .cnt-row {height: auto;}
+
+    .cnt-left { height: auto;}
+    .cnt-right{ height: auto;}
+    .contact {height: auto;}
+    .max-cont {max-width: auto;}
+    .main-cont {max-width: auto;}
+    .main-wrap {padding: 1em;}
+    .about-para {margin: 2em;}
+.brand-about {width: 150px;}
+    .about-right {padding: 2em;}
+    .creativeCouncil-wrap { padding: 2em;}
+    .left-news {height: 250px;}
+   .smn-bg {height: 250px;}
+    .smn-news-cont {height: 250px; padding: 1em;}
+    .right-news {height: 250px; padding: 1em;}
+    h2 {font-size: 16pt;}
+    .brand-logo {width: 150px;margin: 0; padding: 0;}
+   
+    .small-news {height: auto;}
+    .social-icon {text-align: center; margin-bottom: 30px;}
+    .copy-right {position: relative;}
+    .right-news p {font-size: 10pt; }
+    .right-grid h3 {font-size: 16pt;}
+    .right-grid p {font-size: 10pt;}
+    .right-grid h3 {font-size: 14pt;}
+   
+    .smn-news-cont h2 {font-size: 16pt;}
+    .smn-news-cont p {font-size: 10pt;}
+    .service, .service div {height: auto;}
+    .service p {font-size: 10pt;}
+    .about-para p {font-size: 10pt;}
+    .twit-content p {font-size: 10pt;}
+    .twit-content h4 {font-size: 12pt;}
+     .cnt-right h2 {margin-top: 0; padding-top: 30px; margin-bottom: 30px;}
+    .name-box {font-size: 12pt;}
+    .mark-icon {width: 25px;}
+    .poultryAdd h1 {font-size: 14pt;}
+    .poultryAdd h6 {font-size: 16pt;}
+    .popupImage {display: none;}
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+     body {font-size: 0.6em;}
+    .wrap01 {height: auto; padding-left: 1em; padding-right: 1em;}
+    .list-wrap {margin: 0 auto; padding: 0;}
+    .list-wrap .col-md-4 {height: 35px; margin-bottom: 0.5em; padding: 0;}
+    .leftSpan {width: 35px;}
+    .rightSpan {width: calc(100% - 35px); height: 100%; }
+    .rightSpan a {font-size: 0.8em; text-indent: 0.7em; }
+    .big-coloumn {height: 400px;}
+    .sm-bg01 { height: 250px;}
+    .sm-bg02 { height: 250px;}
+    .small-coloumn { height: 250px;}
+    .wrap03 {height: auto;}
+     .intro-text {font-size: 22pt;}
+.intro-text span {font-size: 22pt;}
+    .zoom-icon {top: 70px;}
+    .small-coloumn:before {height: 250px;}
+    .wrap04 {padding-left: 2em; padding-right: 2em;}
+    .cnt-left { height: auto;}
+    .cnt-right{ height: auto;}
+    .contact {height: auto;}
+    .max-cont {max-width: auto;}
+    .main-cont {max-width: auto;}
+    .main-wrap {padding: 1em; padding-top: 30px;}
+    .about-para {margin: 2em;}
+.brand-about {width: 150px;}
+    .about-right {padding: 2em;}
+    .creativeCouncil-wrap {padding: 2em;}
+    .left-news {height: 250px;}
+   .smn-bg {height: 250px;}
+    .smn-news-cont {height: 250px; padding: 1em;}
+    .right-news {height: 250px; padding: 1em;}
+    h2 {font-size: 16pt;}
+    .brand-logo {width: 150px;margin: 0; padding: 0;}
+   
+    .small-news {height: auto;}
+    .social-icon {text-align: center; margin-bottom: 30px; padding-left: 0; margin-left: 0;}
+    .copy-right {position: relative;}
+    .right-news {height: auto; }
+    .right-news p {font-size: 10pt; }
+    .right-grid h3 {font-size: 16pt;}
+    .right-grid p {font-size: 10pt;}
+    .right-grid h3 {font-size: 14pt;}
+   
+    .smn-news-cont h2 {font-size: 16pt;}
+    .smn-news-cont p {font-size: 10pt;}
+    .service, .service div {height: auto;}
+    .service p {font-size: 10pt;}
+    .about-para p {font-size: 10pt;}
+    .twit-content p {font-size: 10pt;}
+    .twit-content h4 {font-size: 12pt;}
+    .cnt-right h2 {margin-top: 0; padding-top: 30px; margin-bottom: 30px;}
+    .name-box {font-size: 12pt;}
+    .mark-icon {width: 25px;}
+    .poultryAdd h1 {font-size: 14pt;}
+    .poultryAdd h6 {font-size: 16pt;}
+  
+    .popupImage {display: none;}
+    .service-wrap {height: auto;}
+    .service-wrap ul{ padding-left: 0; margin-bottom: 20px;}
+    .service.one ul {padding-left: 0;}
+    .service-type {padding-left: 0;}
+    #strategyImg {margin-bottom: 30px;}
+    .strategy-content {margin-bottom: 30px;}
+}
+    
