@@ -50,7 +50,7 @@
                 <div class="col-md-4 left-news03 wow fadeInLeft animated">
                 </div>
                 <div class="col-md-8 right-news01 wow fadeInRight animated">
-                    <a href="transform-your-jewellery-brand.php"><h2>Transform you’re jewellery brand through indian westeros this Aadi</h2></a>
+                    <a href="transform-your-jewellery-brand.php"><h2>Transform your jewellery brand through indian westeros this Aadi</h2></a>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
                      <p>It’s true that this month the price of gold has dipped substantially after the Shanghai Gold Exchange began trading expansively. However, customers in Tamil Nadu region are rejoicing and cashing in on the “Aadi” discounts making this occasion as a   once-in-a-lifetime opportunity to invest in the precious metal. But, people have been quick buying gold coins over jewellery.<br><br>
                       <a href="transform-your-jewellery-brand.php" style="color: #eb1c24">Read more</a>
