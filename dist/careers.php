@@ -47,7 +47,7 @@
                         Do you make an effort to understand the views of others?<br>
                         Are you honest with yourself, clients, suppliers and the company?<br>
                         If so, Please go ahead and apply.<br>
-                        If not, there is always the next one mate….
+                        If not, there is always the next one...
                         </p><br>
                          <a href="mailto:careers@indianwesteros.com" target="_top" class="wow fadeInLeft animated" data-wow-delay="0.2s">Apply</a>
                 </div>
