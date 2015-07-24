@@ -48,6 +48,8 @@ html, body {width: 100%; font-family: 'pt_serifregular'; font-size: 1em;}
 
 
 
+
+
 #page {height: 100vh; /*background: #fff;*/ position: relative; -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
 
 .none-padding { padding: 0 !important;
@@ -354,11 +356,14 @@ padding: 0; color: #ffffff;  width: 100%; position: absolute; bottom: -50px; hei
 .news-cont {padding: 50px;}
 .news-row {margin-bottom: 2em;}
 .left-news { height: 350px; background: url(../img/poultry.jpg) no-repeat 50% 50%; background-size: cover;}
+.left-news03 { height: 350px; background: url(../img/jwellery.jpg) no-repeat 50% 50%; background-size: cover;}
 .left-news01 { height: 350px; background: url(../img/client-service.jpg) no-repeat 50% 50%; background-size: cover;}
 .left-news02 { height: 350px; background: url(../img/graphic-designer.jpg) no-repeat 50% 50%; background-size: cover;}
 .right-news { background-color: #f7f7f7; padding: 3em; font-size: 1.1em; color: #4b4b4b; font-family: 'pt_sansregular'; min-height: 350px; }
 .right-news01 { background-color: #f7f7f7; padding: 3em; font-size: 1.1em; color: #4b4b4b; font-family: 'pt_sansregular'; min-height: 350px; }
-.right-news h2 { color: #000000; }
+.right-news01 a { color: #000000; text-decoration: none;}
+.right-news01 a:hover { color: #ec1c24;  text-decoration: none; -webkit-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease;}
+
 .right-news p { text-align: justify;}
 .small-news {height: 600px; margin-top: 2em; margin-bottom: 4em;}
 .smn {height: 250px;}

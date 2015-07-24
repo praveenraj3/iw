@@ -45,32 +45,13 @@
            </div>
            
         <div class="container news-cont">
-           
-                 <div class="row news-row">
-                <div class="col-md-4 left-news03 wow fadeInLeft animated">
-                </div>
-                <div class="col-md-8 right-news01 wow fadeInRight animated">
-                    <a href="transform-your-jewellery-brand.php"><h2>Transform you’re jewellery brand through indian westeros this Aadi</h2></a>
-                     <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>It’s true that this month the price of gold has dipped substantially after the Shanghai Gold Exchange began trading expansively. However, customers in Tamil Nadu region are rejoicing and cashing in on the “Aadi” discounts making this occasion as a   once-in-a-lifetime opportunity to invest in the precious metal. But, people have been quick buying gold coins over jewellery.<br><br>
-                      <a href="transform-your-jewellery-brand.php" style="color: #eb1c24">Read more</a>
-                     </p>
-
-                </div>
-            </div>
-           
-           <hr style="border-top: 2px dashed #808080; width: 100%; margin-bottom: 3em; margin-top: 3em;">
-           
             <div class="row news-row">
                 <div class="col-md-4 left-news wow fadeInLeft animated">
                 </div>
                 <div class="col-md-8 right-news01 wow fadeInRight animated">
-                    <a href="capitalize-your-participation-at-poultry-show.php"><h2>Do you want to capitalize your participation at Poultry Show or Just be another exhibiting company?</h2></a>
+                     <h2>Do you want to capitalize your participation at Poultry Show or Just be another exhibiting company?</h2>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>When you try to explore opportunities or create leads through an exhibition the major query to be answered is – whether, your company wants to be just an exhibitor or a company which will run a campaign based on the trade show, which none of your competitors or customers could have ever imagined or scouted.<br><br>
-                      <a href="capitalize-your-participation-at-poultry-show.php" style="color: #eb1c24">Read more</a>
-                     </p>
-<!--
+                     <p>When you try to explore opportunities or create leads through an exhibition the major query to be answered is – whether, your company wants to be just an exhibitor or a company which will run a campaign based on the trade show, which none of your competitors or customers could have ever imagined or scouted.</p>
                      <p>
                          We at Indian Westeros, are experts in running advertisement campaigns. A recent research by Green Book suggests that, to be successful at a trade show the companies need to promote or advertise their products in every medium that the targeted audience can come across before, during and after the show. 
                      </p>
@@ -88,7 +69,6 @@
                      <p>
                          For more information, email us at info@indianwesteros.com or <a href="#contact" style="color: #eb1c24">Click here to leave a message</a>
                      </p>
--->
                 </div>
             </div>
             <div class="row text-right social-icon hidden-xs">

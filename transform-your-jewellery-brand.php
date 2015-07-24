@@ -45,50 +45,33 @@
            </div>
            
         <div class="container news-cont">
-           
-                 <div class="row news-row">
+            <div class="row news-row">
                 <div class="col-md-4 left-news03 wow fadeInLeft animated">
                 </div>
                 <div class="col-md-8 right-news01 wow fadeInRight animated">
-                    <a href="transform-your-jewellery-brand.php"><h2>Transform you’re jewellery brand through indian westeros this Aadi</h2></a>
+                     <h2>Transform your jewellery brand through indian westeros this Aadi</h2>
                      <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>It’s true that this month the price of gold has dipped substantially after the Shanghai Gold Exchange began trading expansively. However, customers in Tamil Nadu region are rejoicing and cashing in on the “Aadi” discounts making this occasion as a   once-in-a-lifetime opportunity to invest in the precious metal. But, people have been quick buying gold coins over jewellery.<br><br>
-                      <a href="transform-your-jewellery-brand.php" style="color: #eb1c24">Read more</a>
-                     </p>
-
-                </div>
-            </div>
-           
-           <hr style="border-top: 2px dashed #808080; width: 100%; margin-bottom: 3em; margin-top: 3em;">
-           
-            <div class="row news-row">
-                <div class="col-md-4 left-news wow fadeInLeft animated">
-                </div>
-                <div class="col-md-8 right-news01 wow fadeInRight animated">
-                    <a href="capitalize-your-participation-at-poultry-show.php"><h2>Do you want to capitalize your participation at Poultry Show or Just be another exhibiting company?</h2></a>
-                     <hr style="border-top: 2px solid #eb1c24; width: 150px; margin-bottom: 1.5em; margin-top: 1.5em;">
-                     <p>When you try to explore opportunities or create leads through an exhibition the major query to be answered is – whether, your company wants to be just an exhibitor or a company which will run a campaign based on the trade show, which none of your competitors or customers could have ever imagined or scouted.<br><br>
-                      <a href="capitalize-your-participation-at-poultry-show.php" style="color: #eb1c24">Read more</a>
-                     </p>
-<!--
+                     <p>It’s true that this month the price of gold has dipped substantially after the Shanghai Gold Exchange began trading expansively. However, customers in Tamil Nadu region are rejoicing and cashing in on the “Aadi” discounts making this occasion as a   once-in-a-lifetime opportunity to invest in the precious metal. But, people have been quick buying gold coins over jewellery.</p>
                      <p>
-                         We at Indian Westeros, are experts in running advertisement campaigns. A recent research by Green Book suggests that, to be successful at a trade show the companies need to promote or advertise their products in every medium that the targeted audience can come across before, during and after the show. 
+                         As a Jeweler, it’s now high time for you to promote your products in different advertising mediums showcasing your product’s unique selling proposition, the design, the cuts and your company. We say this because a recent survey by World Gold Council across the globe suggest that, it’s necessary to promote jewellery during peak sales of gold coins as it shows an interest among consumers to buy gold. 
                      </p>
+                     <p>It’s the sole responsibility of the business head to make an investment decision at the right time to change the tide from gold coins to jewellery. Similar clearance season happens in other countries during Christmas primarily. Astey Clarke – a well-known Jewelry company from UK quotes that,” Our customers get attracted to our products in this season only when we clearly communicate about the price discount effectively without any biased info. Therefore, the advertisement’s needs to communicate only a single message to boost sales.”</p>
+                     <p>We are a startup advertising agency based out of Chennai known as Indian Westeros. We share this information with you, not as a business proposal but to showcase the power of research based advertisements, which is generically missing in current advertising trends. You don’t have to only rely on a single advertising platform to promote your product or services, but there are abundant resources available out there. What you need is the right people and we confidently say that, we are the right ones for the job.<br>When we create an advertisement or write a copy, we truly believe in our client’s product and services. In fact, that’s one of our company’s values.</p>
+                     <p>Indian Westeros services include</p>
                      <ul class="news-list">
-                         <li><span>This method will ensure 80% of the visitors to visit your stall during the show </span></li>
-                         <li><span>Your clients will be able to recall your brand promise</span> </li>
-                         <li><span>You will be able to touch their lives personally</span></li>
+                         <li><strong>Advertising</strong><span>- We create effective advertising that extends from sound marketing strategy – Broadcast, Print and Digital.</span></li>
+                          <li><strong>Strategic Planning</strong><span>- We define and redefine goals and objectives, develop strategies and evaluate advertising results</span></li>
+                           <li><strong>Brand Identity</strong><span>- We can bring your brand into life by creating meaningful marketing strategies</span></li>
+                            <li><strong>Creative Design</strong><span>- It’s not just a blank paper, but a source for our creative team's inspiration to create something new</span></li>
+                             <li><strong>Experiential Marketing</strong><span>- Our activation partners will help you with creating smartest plan of action for out of home advertising</span></li>
+                              <li><strong>Digital Marketing</strong><span>- Strategic presence creation through digital mediums</span></li>
+                         
                      </ul>
-                     <p>
-                         For example, your prospect has just reached the airport and on his way from the terminal to the exit, he notices a billboard advertisement on behalf of your company, which says “ We are here to solve your birds intestinal health problems – Visit us at Poultry India 2015 to know more”.  The above Ad was just an idea and at this point of contact, your prospect has already made his decision to visit your stall to know more about your products. 
-                     </p>
-                     <p>
-                         There are n-number of mediums that can be employed to make your clients realise your value and services.This doesn’t stop there, we help you to <b>build your stall</b>, tap the untapped <b>advertising mediums</b>, help you to run a <b>social media campaign</b>. This is our promise that will be delivered at  Poultry India 2015. 
-                     </p>
-                     <p>
-                         For more information, email us at info@indianwesteros.com or <a href="#contact" style="color: #eb1c24">Click here to leave a message</a>
-                     </p>
--->
+                     <p>And more...</p>
+                    <p>You can visit our website <a href="http://indianwesteros.com/index.php" target="_blank">www.indianwesteros.com</a> or <a href=" mailto:careers@indianwesteros.com" target="_top">mail us at info@indianwesteros.com</a>, if you need us to provide communication solutions for your company.</p>
+                    <p>If you found this information resourceful, please subscribe to us. We will be sending insights on Jewelry Advertising, every month.</p>
+                    <p>Have a great sale!! This Aadi.</p>
+     
                 </div>
             </div>
             <div class="row text-right social-icon hidden-xs">
