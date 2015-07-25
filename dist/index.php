@@ -12,6 +12,7 @@
     <title>Indian Westeros</title>
     <meta name="description" content="We are here to create and transform brands that lasts forever through comprehensive, appropriate and integrated range of marketing communication services.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="http://indianwesteros.com/img/og.jpg" />
     <?php include( 'link.html'); ?>
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     <style>

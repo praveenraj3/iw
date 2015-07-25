@@ -118,7 +118,7 @@
                         </div>
                     </a>
 
-                    <a href="#" class="popup" data-img="per2.jpg" data-text="<span>Rakesh NS</span><br> <br>His style of film making is niche, techy and extremely thought provoking. He has worked with some of the big ad agencies in the market, before being named as one of the finalist in the television reality show “ Nalaya Iyakkunar”.  Later, he entered into the movie business and took the role of “Associate Director” – where he worked with Mr. Sarvanan & Mr. Nalan Kumaraswamy. He is nowhere to create his own legacy.">
+                    <a href="#" class="popup" data-img="per2.jpg" data-text="<span>Rakesh NS</span><br> <br>His style of film making is niche, techy and extremely thought provoking. He has worked with some of the big ad agencies in the market, before being named as one of the finalist in the television reality show “ Nalaya Iyakkunar”.  Later, he entered into the movie business and took the role of “Associate Director” – where he worked with Mr. Sarvanan & Mr. Nalan Kumaraswamy. He is no where to create his own legacy.">
 
                         <div class="col-md-4 col-sm-6 team wow fadeIn" data-wow-delay="0.4s">
 
